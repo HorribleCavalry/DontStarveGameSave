@@ -119,7 +119,7 @@ return {
     sapling="default",
     season_start="default",
     seasonalstartingitems="default",
-    shadowcreatures="rare",
+    shadowcreatures="never",
     sharks="default",
     spawnprotection="default",
     specialevent="default",
