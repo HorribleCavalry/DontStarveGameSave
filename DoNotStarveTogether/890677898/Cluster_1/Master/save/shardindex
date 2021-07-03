@@ -50,7 +50,7 @@ KLEI     1 return {
     encode_user_path=true,
     game_mode="endless",
     intention="social",
-    max_players=4,
+    max_players=6,
     name="激爽的世界♂",
     online_mode=true,
     password="",
