@@ -1,0 +1,89 @@
+[00:31:14]: [Death Announcement] 恐怖骑兵团 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[01:34:29]: [Death Announcement] 恐怖骑兵团 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[01:49:44]: [Join Announcement] DDaily
+[01:55:52]: [Death Announcement] 恐怖骑兵团 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[01:56:31]: [Resurrect Announcement] 恐怖骑兵团 复活自： 试金石.
+[02:25:57]: [Death Announcement] 恐怖骑兵团 死于： 猪人. 若无人救援，60秒后变成幽灵！
+[02:26:08]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[02:27:17]: [Death Announcement] 恐怖骑兵团 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[02:27:32]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[02:28:38]: [Death Announcement] 恐怖骑兵团 死于： 蜘蛛战士. 若无人救援，60秒后变成幽灵！
+[02:28:48]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[02:41:06]: [Death Announcement] 恐怖骑兵团 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[02:41:13]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[02:41:53]: [Death Announcement] 恐怖骑兵团 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[02:41:58]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[03:36:23]: [Join Announcement] 黑学
+[03:45:35]: [Death Announcement] 恐怖骑兵团 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[03:45:47]: [Join Announcement] Primrose
+[03:46:31]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[03:50:53]: [Leave Announcement] 黑学
+[03:51:56]: [Leave Announcement] Primrose
+[03:54:52]: [Join Announcement] 黑学
+[03:56:06]: [Leave Announcement] 黑学
+[03:57:30]: [Join Announcement] 黑学
+[03:58:00]: [Join Announcement] Primrose
+[04:03:54]: [Death Announcement] DDaily 死于： 猪人. 若无人救援，60秒后变成幽灵！
+[04:04:13]: [Resurrect Announcement] DDaily 复活自： Primrose.
+[04:06:30]: [Death Announcement] DDaily 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[04:07:54]: [Resurrect Announcement] DDaily 复活自： 绚丽之门.
+[04:18:57]: [Death Announcement] Primrose 死于： 中暑. 若无人救援，60秒后变成幽灵！
+[04:19:11]: [Resurrect Announcement] Primrose 复活自： DDaily.
+[04:20:35]: [Death Announcement] DDaily 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:20:43]: [Resurrect Announcement] DDaily 复活自： Primrose.
+[04:21:14]: [Leave Announcement] 黑学
+[04:22:51]: [Join Announcement] 黑学
+[04:26:04]: [Death Announcement] Primrose 死于： 坑. 若无人救援，60秒后变成幽灵！
+[04:26:23]: [Resurrect Announcement] Primrose 复活自： 黑学.
+[04:30:05]: [Death Announcement] 黑学 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:30:13]: [Resurrect Announcement] 黑学 复活自： Primrose.
+[04:31:54]: [Death Announcement] Primrose 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:32:03]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[04:34:56]: [Death Announcement] DDaily 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:35:09]: [Death Announcement] Primrose 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[04:35:19]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[04:35:35]: [Resurrect Announcement] DDaily 复活自： Primrose.
+[04:38:42]: [Death Announcement] Primrose 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[04:39:36]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[04:42:40]: [Death Announcement] 黑学 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:43:02]: [Resurrect Announcement] 黑学 复活自： Primrose.
+[04:48:06]: [Death Announcement] 黑学 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:48:13]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[04:49:45]: [Death Announcement] Primrose 死于： 中暑. 若无人救援，60秒后变成幽灵！
+[04:50:04]: [Resurrect Announcement] Primrose 复活自： 黑学.
+[04:57:53]: [Death Announcement] Primrose 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[04:58:03]: [Resurrect Announcement] Primrose 复活自： DDaily.
+[04:58:23]: [Death Announcement] 黑学 死于： 蜘蛛战士. 若无人救援，60秒后变成幽灵！
+[04:58:48]: [Death Announcement] Primrose 死于： 蜘蛛战士. 若无人救援，60秒后变成幽灵！
+[04:59:02]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[04:59:10]: [Death Announcement] DDaily 死于： 蜘蛛战士. 若无人救援，60秒后变成幽灵！
+[04:59:14]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[04:59:23]: [Resurrect Announcement] DDaily 复活自： Primrose.
+[05:02:38]: [Leave Announcement] Primrose
+[05:04:13]: [Leave Announcement] 黑学
+[05:05:47]: [Join Announcement] 黑学
+[05:07:27]: [Join Announcement] Primrose
+[05:11:43]: [Death Announcement] Primrose 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[05:11:50]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[05:18:11]: [Death Announcement] Primrose 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[05:19:22]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[05:25:31]: [Death Announcement] DDaily 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[05:25:41]: [Resurrect Announcement] DDaily 复活自： Primrose.
+[05:29:24]: [Death Announcement] 黑学 死于： 饥饿。她变成了可怕的鬼魂！
+[05:30:01]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[05:32:24]: [Death Announcement] Primrose 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[05:32:32]: [Resurrect Announcement] Primrose 复活自： 黑学.
+[05:35:48]: [Death Announcement] DDaily 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[05:35:56]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[05:37:46]: [Death Announcement] Primrose 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[05:37:58]: [Resurrect Announcement] Primrose 复活自： 黑学.
+[05:39:54]: [Death Announcement] Primrose 死于： 红色猎犬. 若无人救援，60秒后变成幽灵！
+[05:42:05]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.
+[05:42:20]: [Death Announcement] 黑学 死于： 中暑. 若无人救援，60秒后变成幽灵！
+[05:42:26]: [Resurrect Announcement] 黑学 复活自： Primrose.
+[05:43:30]: [Death Announcement] DDaily 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[05:43:37]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[05:46:13]: [Death Announcement] DDaily 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[05:46:22]: [Resurrect Announcement] DDaily 复活自： Primrose.
+[05:50:01]: [Death Announcement] Primrose 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[05:50:09]: [Resurrect Announcement] Primrose 复活自： 恐怖骑兵团.

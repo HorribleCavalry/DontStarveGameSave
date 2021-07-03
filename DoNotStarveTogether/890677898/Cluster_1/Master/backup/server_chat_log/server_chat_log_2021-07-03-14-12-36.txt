@@ -1,0 +1,3 @@
+[00:00:43]: [Join Announcement] 恐怖骑兵团
+[00:30:10]: [Death Announcement] 恐怖骑兵团 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[00:30:20]: [Leave Announcement] 恐怖骑兵团

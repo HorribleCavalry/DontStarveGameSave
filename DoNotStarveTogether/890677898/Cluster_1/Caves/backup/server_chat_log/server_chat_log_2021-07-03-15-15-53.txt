@@ -1,0 +1,3 @@
+[00:00:43]: [Join Announcement] 恐怖骑兵团
+[01:02:40]: [Death Announcement] 恐怖骑兵团 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[01:02:53]: [Leave Announcement] 恐怖骑兵团
