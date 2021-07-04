@@ -1,2 +1,4 @@
-[00:00:44]: [Join Announcement] 恐怖骑兵团
-[00:25:04]: [Leave Announcement] 恐怖骑兵团
+[00:00:36]: [Join Announcement] 恐怖骑兵团
+[00:13:49]: [Skin Announcement] 恐怖骑兵团 legs_skirt_basic_grey_dark
+[01:41:49]: [Whisper] (KU_2duLJbNC) 恐怖骑兵团: u
+[01:48:54]: [Leave Announcement] 恐怖骑兵团
