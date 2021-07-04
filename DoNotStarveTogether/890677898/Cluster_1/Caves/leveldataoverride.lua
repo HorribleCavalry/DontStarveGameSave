@@ -71,7 +71,7 @@ return {
     sapling="often",
     season_start="default",
     seasonalstartingitems="default",
-    shadowcreatures="never",
+    shadowcreatures="rare",
     slurper="default",
     slurtles="default",
     slurtles_setting="default",

@@ -1,0 +1,3 @@
+[00:00:41]: [Join Announcement] 恐怖骑兵团
+[00:14:47]: [Death Announcement] 恐怖骑兵团 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[00:15:07]: [Leave Announcement] 恐怖骑兵团

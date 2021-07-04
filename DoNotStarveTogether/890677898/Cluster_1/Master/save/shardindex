@@ -219,7 +219,7 @@ KLEI     1 return {
         sapling="default",
         season_start="default",
         seasonalstartingitems="default",
-        shadowcreatures="never",
+        shadowcreatures="rare",
         sharks="default",
         spawnprotection="default",
         specialevent="default",

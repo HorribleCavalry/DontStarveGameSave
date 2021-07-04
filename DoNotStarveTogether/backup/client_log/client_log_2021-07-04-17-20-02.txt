@@ -1,0 +1,2639 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 24%
+	Available Physical Memory: 12251m/16300m
+	Available Page File: 12488m/18732m
+	Available Virtual Memory: 3962m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 242k
+	Quota Page Pool Usage: 237k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 469733
+[00:00:00]: Current time: Sun Jul 04 01:12:47 2021
+
+[00:00:00]: Don't Starve Together: 469733 WIN32_STEAM
+[00:00:00]: Build Date: 6381
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 6954971
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/890677898/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (1248)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: Texture Streaming: ENABLED
+[00:00:00]: Threaded Renderer: ENABLED
+[00:00:00]: ProfileIndex:2.88
+[00:00:00]: THREAD - started 'SimUpdateThread' (12924)
+[00:00:00]: THREAD - started 'RenderThread' (10324)
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (9952)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: could not load ping_cache
+[00:00:00]: THREAD - started 'StreamInput' (8084)
+[00:00:00]: Offline user ID: OU_76561198850943626
+[00:00:00]: SteamID: 76561198850943626
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 专业版
+    version                   10.0.19042
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2904
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      NVIDIA GeForce GTX 1060 6GB
+    driverDate                20200930000000.000000-000
+    megsOfRam                 4095
+    refreshRate               59
+    videoModeDescription      2560 x 1440 x 4294967296 种颜色
+    driverVersion             27.21.14.5671
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (12504)
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (8684)
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 2560,1361 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: RestoreWindowPosition
+[00:00:00]:    Saved Client Pos (0 x 29)
+[00:00:00]:    Adjusted Window Pos (-9 x -9)
+[00:00:00]: EnsureWindowOnScreen
+[00:00:00]:    All good.
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1060 6GB)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: OpenGL extensions (20, 20):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_float_linear
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: THREAD - started 'WindowsInputManager' (8180)
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:03]:   taskgrouplist:	default	联机版	
+[00:00:03]:   taskgrouplist:	classic	经典	
+[00:00:03]:   taskgrouplist:	cave_default	地下	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:03]: running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:03]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:00:03]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:03]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths loaded morgue	1513	
+[00:00:05]: PlayerHistory loaded player_history (v2) len:606	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: loaded shardsaveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:07]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:00:07]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:00:07]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:00:07]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:00:07]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:00:07]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (12308)
+[00:00:07]: FilesExistAsyncThread started (18176 files)...
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[00:00:07]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[00:00:07]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[00:00:07]: SimLuaProxy::QueryServer()
+[00:00:07]: Check for write access: TRUE
+[00:00:07]: Check for read access: TRUE
+[00:00:07]: Available disk space for save files: 140112 MB
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:08]: [MOTD] Done Loading.	
+[00:00:08]: ... FilesExistAsyncThread complete
+[00:00:10]: Do AutoLogin	
+[00:00:10]: [Steam] Auth Session Ticket requested...
+[00:00:10]: [Steam] Got Auth Session Ticket
+[00:00:13]: [200] Account Communication Success (3)
+[00:00:13]: Logging in as KU_2duLJbNC
+[00:00:14]: There is no active event to get the status of.
+[00:00:17]: loaded inventory_cache_prod
+[00:00:17]: using inventory state token from cached file
+[00:00:19]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
+[00:00:19]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
+[00:03:27]: Getting top mod details...
+[00:03:27]: Frontend-Unloading mod 'all'.	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:03:27]: FrontendLoadMod	workshop-1595934840	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[00:03:27]: Fontend-Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[00:03:27]: Mod: workshop-1595934840 (Help Me Up!)	Loading modservercreationmain.lua	
+[00:03:27]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:03:27]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[00:03:27]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:03:27]: FrontendLoadMod	workshop-1207269058	
+[00:03:27]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:03:27]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:03:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[00:03:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:03:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:03:27]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:03:27]: FrontendLoadMod	workshop-378160973	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:03:27]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:03:27]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[00:03:27]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:03:27]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:03:27]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:03:27]: FrontendLoadMod	workshop-347079953	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:03:27]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:03:27]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[00:03:27]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:03:27]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:03:27]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:03:27]: FrontendLoadMod	workshop-375859599	
+[00:03:27]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:03:27]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:03:27]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[00:03:27]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:03:27]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:03:27]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:03:28]: GOT top mod details...50
+[00:03:57]: THREAD - started 'cUnpackModThread' (9036)
+[00:03:57]: DelDirectory [../mods/workshop-1079538195] 2: FAILED
+[00:03:57]: cWorkshopMod::UnzipMod ../mods/workshop-1079538195
+[00:04:58]: FrontendLoadMod	workshop-1079538195	
+[00:04:58]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:04:58]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:04:58]: Mod: workshop-1079538195 (Moving Box)	Loading modservercreationmain.lua	
+[00:04:58]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:58]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:04:58]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:11:47]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[00:11:47]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:11:47]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:11:47]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:11:47]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:11:47]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:11:47]: Best lobby region is aws/Sing (ping 73)
+[00:11:47]: Token file written to disk: APP:Klei//DoNotStarveTogether/890677898/Cluster_1/cluster_token.txt
+[00:11:47]: [IPC] Signal 'DST_Master_Starting' created  #000008BC
+[00:11:47]: [IPC] Clearing pending signals #000008BC...
+[00:11:47]: [IPC] Registering handler for signal #000008BC
+[00:11:47]: [IPC] Handle #000008BC added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Master_WorldGen' created  #000009D4
+[00:11:47]: [IPC] Clearing pending signals #000009D4...
+[00:11:47]: [IPC] Registering handler for signal #000009D4
+[00:11:47]: [IPC] Handle #000009D4 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Master_Ready' created  #00000BF8
+[00:11:47]: [IPC] Clearing pending signals #00000BF8...
+[00:11:47]: [IPC] Registering handler for signal #00000BF8
+[00:11:47]: [IPC] Handle #00000BF8 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Master_ErrPort' created  #00000B7C
+[00:11:47]: [IPC] Clearing pending signals #00000B7C...
+[00:11:47]: [IPC] Registering handler for signal #00000B7C
+[00:11:47]: [IPC] Handle #00000B7C added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000AD8
+[00:11:47]: [IPC] Clearing pending signals #00000AD8...
+[00:11:47]: [IPC] Registering handler for signal #00000AD8
+[00:11:47]: [IPC] Handle #00000AD8 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Master_Kill' created  #00000AB4
+[00:11:47]: [IPC] Clearing pending signals #00000AB4...
+[00:11:47]: [IPC] Signal 'DST_Secondary_Starting' created  #00000B58
+[00:11:47]: [IPC] Clearing pending signals #00000B58...
+[00:11:47]: [IPC] Registering handler for signal #00000B58
+[00:11:47]: [IPC] Handle #00000B58 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Secondary_WorldGen' created  #00000B54
+[00:11:47]: [IPC] Clearing pending signals #00000B54...
+[00:11:47]: [IPC] Registering handler for signal #00000B54
+[00:11:47]: [IPC] Handle #00000B54 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Secondary_Ready' created  #00000A04
+[00:11:47]: [IPC] Clearing pending signals #00000A04...
+[00:11:47]: [IPC] Registering handler for signal #00000A04
+[00:11:47]: [IPC] Handle #00000A04 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Secondary_ErrPort' created  #000009C8
+[00:11:47]: [IPC] Clearing pending signals #000009C8...
+[00:11:47]: [IPC] Registering handler for signal #000009C8
+[00:11:47]: [IPC] Handle #000009C8 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Secondary_ErrStartup' created  #00000BD8
+[00:11:47]: [IPC] Clearing pending signals #00000BD8...
+[00:11:47]: [IPC] Registering handler for signal #00000BD8
+[00:11:47]: [IPC] Handle #00000BD8 added to the Eventhandles
+[00:11:47]: [IPC] Signal 'DST_Secondary_Kill' created  #00000A30
+[00:11:47]: [IPC] Clearing pending signals #00000A30...
+[00:11:54]: [IPC] Received DST_Master Starting signal !
+[00:11:55]: [IPC] Received DST_Secondary Starting signal !
+[00:12:09]: [IPC] Received DST_Master Ready signal !
+[00:12:12]: [IPC] Received DST_Secondary Ready signal !
+[00:12:12]: [Connect] Init client connection to 127.0.0.1|10999
+[00:12:12]: [Connect] PendingConnection::Reset(true)
+[00:12:12]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:12:12]: [Connect] InternalInitClient <813278143006720655>
+[00:12:12]: [Shard] Starting shard mode as player
+[00:12:12]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:12:12]: [Connect] Sending ping(s)...
+[00:12:12]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:12:12]: [Connect] Ping response from 127.0.0.1|10999
+[00:12:12]: [Connect] Joining server from ping response...
+[00:12:12]: Friends are currently playing in 0 games(s)!
+[00:12:12]: You belong to 1 clan(s)!
+[00:12:12]: [Connect] Got join server response from lua
+[00:12:13]: [200] Account Communication Success (13)
+[00:12:13]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:12:13]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:12:13]: Connection accepted to 127.0.0.1|10999 <7118070048201790625>
+[00:12:13]: Network external address discovered: 127.0.0.1|57480
+[00:12:13]: SendClientHandShakePacket to <7118070048201790625>
+[00:12:13]: DeserializeHandShakeServerListing
+[00:12:13]: Network tick rate: U=10(3), D=15
+[00:12:13]: Platform: 1
+[00:12:13]: Version: 469733
+[00:12:13]: [Steam] Game Connection initiated
+[00:12:13]: SendClientInventoryHandShakePacket to <7118070048201790625>
+[00:12:15]: Begin Session: 24E9623F506B4C48
+[00:12:15]: Done Downloading Client Object Data
+[00:12:15]: DownloadMods and temp disable	
+[00:12:15]: We now have the required mods, enable them for server	
+[00:12:15]: Temp Enabling workshop-1207269058	
+[00:12:15]: Temp Enabling workshop-1079538195	
+[00:12:15]: Temp Enabling workshop-378160973	
+[00:12:15]: Temp Enabling workshop-347079953	
+[00:12:15]: Temp Enabling workshop-1595934840	
+[00:12:15]: Temp Enabling workshop-375859599	
+[00:12:15]: ModIndex:SetTempModConfigData	
+[00:12:15]: Setting temp mod config for mod 	workshop-1207269058	
+[00:12:15]: Setting temp mod config for mod 	workshop-378160973	
+[00:12:15]: Setting temp mod config for mod 	workshop-1595934840	
+[00:12:15]: Setting temp mod config for mod 	workshop-1079538195	
+[00:12:15]: Setting temp mod config for mod 	workshop-347079953	
+[00:12:15]: Setting temp mod config for mod 	workshop-375859599	
+[00:12:15]: Mods are setup for server, save the mod index and proceed.	
+[00:12:15]: Downloading [0] From: server_temp
+[00:12:15]: 0 (29%) 1/1 server_temp\server_save 114000b / 380355b
+[00:12:15]: 0 (59%) 1/1 server_temp\server_save 228000b / 380355b
+[00:12:15]: 0 (89%) 1/1 server_temp\server_save 342000b / 380355b
+[00:12:15]: 0 (100%) 1/1 server_temp\server_save 380355b / 380355b
+[00:12:15]: Download complete[0] Files: 1 Size: 380355
+[00:12:15]: Collecting garbage...
+[00:12:15]: lua_gc took 0.04 seconds
+[00:12:15]: ~ShardLuaProxy()
+[00:12:15]: ~cEventLeaderboardProxy()
+[00:12:15]: ~ItemServerLuaProxy()
+[00:12:15]: ~InventoryLuaProxy()
+[00:12:15]: ~NetworkLuaProxy()
+[00:12:15]: ~SimLuaProxy()
+[00:12:15]: Cancelling LuaQueryCallback handle [5]
+[00:12:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:12:15]: lua_close took 0.07 seconds
+[00:12:15]: ReleaseAll
+[00:12:15]: ReleaseAll Finished
+[00:12:15]: cGame::StartPlaying
+[00:12:15]: LOADING LUA
+[00:12:15]: DoLuaFile scripts/main.lua
+[00:12:15]: DoLuaFile loading buffer scripts/main.lua
+[00:12:15]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:12:17]:   taskgrouplist:	default	联机版	
+[00:12:17]:   taskgrouplist:	classic	经典	
+[00:12:17]:   taskgrouplist:	cave_default	地下	
+[00:12:17]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:12:17]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:12:17]: running main.lua
+	
+[00:12:17]: loaded modindex	
+[00:12:17]: ModIndex: Beginning normal load sequence.
+	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:12:17]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-1595934840_CLIENT	
+[00:12:17]: Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:12:17]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:12:17]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:12:17]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:12:17]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:12:17]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[00:12:17]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:12:17]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[00:12:17]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:12:17]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-1595934840 (Help Me Up!)	Loading modmain.lua	
+[00:12:17]: modimport: ../mods/workshop-1595934840/strings_chs.lua	
+[00:12:17]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:12:17]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:12:17]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[00:12:17]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:12:17]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:12:17]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:12:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:12:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:12:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:12:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:12:17]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:12:17]: LOADING LUA SUCCESS
+[00:12:17]: Registering Server mod namespace "workshop-1207269058"
+[00:12:17]: Registering Server mod namespace "food item"
+[00:12:17]: Registering Server mod namespace "workshop-378160973"
+[00:12:17]: PlayerDeaths loaded morgue	1513	
+[00:12:17]: PlayerHistory loaded player_history (v2) len:606	
+[00:12:17]: ServerPreferences could not load server_preferences	
+[00:12:17]: bloom_enabled	true	
+[00:12:17]: OnFilesLoaded()	
+[00:12:17]: OnUpdatePurchaseStateComplete	
+[00:12:17]: Loading world: client_temp/server_save	
+[00:12:17]: Save file is at version 5.065	
+[00:12:17]: Klump load on boot started.	
+[00:12:17]: Klump files loaded: 	0	
+[00:12:17]: 	Unload FE	
+[00:12:17]: 	Unload FE done	
+[00:12:18]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:12:18]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-1595934840 (Help Me Up!)	Registering prefabs	
+[00:12:18]: Mod: workshop-1595934840 (Help Me Up!)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:12:18]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[00:12:18]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[00:12:18]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[00:12:18]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[00:12:18]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:12:18]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:12:18]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:12:18]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:12:18]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:12:18]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:12:18]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:12:18]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:12:18]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:12:18]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:12:18]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:12:18]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:12:18]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:12:18]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:12:18]: 	LOAD BE	
+[00:12:21]: Could not preload undefined prefab (alterguardian_spiketrail_fx)
+[00:12:22]: Could not preload undefined prefab (bedazzler_buff)
+[00:12:22]: 	LOAD BE: done	
+[00:12:22]: OVERRIDE: setting	regrowth	to	veryfast	
+[00:12:22]: OVERRIDE: setting	moon_tree_regrowth	to	veryfast	
+[00:12:22]: OVERRIDE: setting	deciduoustree_regrowth	to	veryfast	
+[00:12:22]: OVERRIDE: setting	wildfires	to	never	
+[00:12:22]: OVERRIDE: setting	shadowcreatures	to	rare	
+[00:12:22]: OVERRIDE: setting	perd	to	rare	
+[00:12:22]: OVERRIDE: setting	evergreen_regrowth	to	veryfast	
+[00:12:22]: OVERRIDE: setting	brightmarecreatures	to	rare	
+[00:12:22]: OVERRIDE: setting	carrots_regrowth	to	veryfast	
+[00:12:22]: OVERRIDE: setting	frograin	to	rare	
+[00:12:22]: OVERRIDE: setting	saltstack_regrowth	to	veryfast	
+[00:12:22]: OVERRIDE: setting	deciduousmonster	to	rare	
+[00:12:22]: OVERRIDE: setting	beefaloheat	to	rare	
+[00:12:22]: OVERRIDE: setting	twiggytrees_regrowth	to	veryfast	
+[00:12:22]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:12:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:12:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:12:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:12:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:12:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:12:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:12:22]: Loading 17 new character(s)	
+[00:12:23]: Total 17 character(s) loaded	
+[00:12:24]: Loading Nav Grid	
+[00:12:24]: World generated on build 469733 with save version: 5.065, using seed: 1625244173	
+[00:12:24]: setting 	summerlength	15	
+[00:12:24]: setting 	cavemoonphase	half	
+[00:12:24]: setting 	iscavefullmoon	false	
+[00:12:24]: setting 	isnightmaredawn	false	
+[00:12:24]: setting 	elapseddaysinseason	5	
+[00:12:24]: setting 	isfullmoon	false	
+[00:12:24]: setting 	moisture	1706.6246337891	
+[00:12:24]: setting 	cavephase	dusk	
+[00:12:24]: setting 	iscavewaxingmoon	false	
+[00:12:24]: setting 	isnightmarewild	false	
+[00:12:24]: setting 	nightmaretimeinphase	0	
+[00:12:24]: setting 	precipitationrate	0.25053727626801	
+[00:12:24]: setting 	iswet	false	
+[00:12:24]: setting 	isnewmoon	false	
+[00:12:24]: setting 	precipitation	snow	
+[00:12:24]: setting 	israining	false	
+[00:12:24]: setting 	time	0.36251072883606	
+[00:12:24]: setting 	temperature	-23.77840917786	
+[00:12:24]: setting 	issummer	false	
+[00:12:24]: setting 	winterlength	15	
+[00:12:24]: setting 	springlength	20	
+[00:12:24]: setting 	timeinphase	0.16003433227539	
+[00:12:24]: setting 	moistureceil	2019.8470458984	
+[00:12:24]: setting 	isday	false	
+[00:12:24]: setting 	cycles	95	
+[00:12:24]: setting 	season	winter	
+[00:12:24]: setting 	issnowing	true	
+[00:12:24]: setting 	isalterawake	false	
+[00:12:24]: setting 	isnightmarecalm	false	
+[00:12:24]: setting 	isnight	false	
+[00:12:24]: setting 	isdusk	true	
+[00:12:24]: setting 	iscavedusk	true	
+[00:12:24]: setting 	isautumn	false	
+[00:12:24]: setting 	iscaveday	false	
+[00:12:24]: setting 	moonphase	half	
+[00:12:24]: setting 	seasonprogress	0.33333333333333	
+[00:12:24]: setting 	snowlevel	1	
+[00:12:24]: setting 	iswaxingmoon	false	
+[00:12:24]: setting 	autumnlength	20	
+[00:12:24]: setting 	phase	dusk	
+[00:12:24]: setting 	nightmaretime	0	
+[00:12:24]: setting 	pop	1	
+[00:12:24]: setting 	issnowcovered	true	
+[00:12:24]: setting 	nightmarephase	none	
+[00:12:24]: setting 	isspring	false	
+[00:12:24]: setting 	wetness	0	
+[00:12:24]: setting 	iscavenight	false	
+[00:12:24]: setting 	iscavenewmoon	false	
+[00:12:24]: setting 	remainingdaysinseason	10	
+[00:12:24]: setting 	iswinter	true	
+[00:12:24]: setting 	isnightmarewarn	false	
+[00:12:24]: OVERRIDE: setting	lightning	to	rare	
+[00:12:24]: Reconstructing topology	
+[00:12:24]: 	...Sorting points	
+[00:12:24]: 	...Sorting edges	
+[00:12:24]: 	...Connecting nodes	
+[00:12:24]: 	...Validating connections	
+[00:12:24]: 	...Housekeeping	
+[00:12:24]: 	...Done!	
+[00:12:24]: Check for write access: TRUE
+[00:12:24]: Check for read access: TRUE
+[00:12:24]: Available disk space for save files: 140002 MB
+[00:12:24]: ModIndex: Load sequence finished successfully.	
+[00:12:24]: Reset() returning
+[00:12:25]: Attempting to send resume request
+[00:12:25]: ReceiveResumeNotification
+[00:12:26]: Movement prediction enabled	
+[00:12:26]: Deserializing tile data (425 x 425)
+[00:12:26]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:17:31]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:25:32]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:30:01]: [200] Account Communication Success (6)
+[00:30:01]: Received (KU_2duLJbNC) from TokenPurpose
+[00:33:32]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:41:32]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:49:33]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:57:33]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[00:59:27]: Locomotor: Waiting for server...
+[00:59:27]: Locomotor: Resynced
+[00:59:41]: Locomotor: Waiting for server...
+[00:59:41]: Locomotor: Resynced
+[01:00:01]: [200] Account Communication Success (6)
+[01:00:01]: Received (KU_2duLJbNC) from TokenPurpose
+[01:05:33]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:13:34]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:19:27]: SAVING Morgue	10	
+[01:19:45]: DoRestart:	true	
+[01:19:46]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:19:46]: [Steam] Game Connection terminated (2130706433|10999)
+[01:19:46]: [Shard] Stopping shard mode
+[01:19:46]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:19:46]: [IPC] Sending signal... #00000AB4
+[01:19:48]: [IPC] Unregistering handler for signal #000008BC
+[01:19:48]: [IPC] Unregistering handler for signal #000009D4
+[01:19:48]: [IPC] Unregistering handler for signal #00000BF8
+[01:19:48]: [IPC] Unregistering handler for signal #00000B7C
+[01:19:48]: [IPC] Unregistering handler for signal #00000AD8
+[01:19:48]: [IPC] Sending signal... #00000A30
+[01:19:49]: [IPC] Unregistering handler for signal #00000B58
+[01:19:49]: [IPC] Unregistering handler for signal #00000B54
+[01:19:49]: [IPC] Unregistering handler for signal #00000A04
+[01:19:49]: [IPC] Unregistering handler for signal #000009C8
+[01:19:49]: [IPC] Unregistering handler for signal #00000BD8
+[01:19:49]: Collecting garbage...
+[01:19:49]: lua_gc took 0.06 seconds
+[01:19:49]: ~ShardLuaProxy()
+[01:19:49]: ~cEventLeaderboardProxy()
+[01:19:49]: ~ItemServerLuaProxy()
+[01:19:49]: ~InventoryLuaProxy()
+[01:19:49]: ~NetworkLuaProxy()
+[01:19:49]: ~SimLuaProxy()
+[01:19:49]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:19:49]: lua_close took 0.08 seconds
+[01:19:49]: ReleaseAll
+[01:19:49]: ReleaseAll Finished
+[01:19:49]: cGame::StartPlaying
+[01:19:49]: LOADING LUA
+[01:19:49]: DoLuaFile scripts/main.lua
+[01:19:49]: DoLuaFile loading buffer scripts/main.lua
+[01:19:50]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:19:51]:   taskgrouplist:	default	联机版	
+[01:19:51]:   taskgrouplist:	classic	经典	
+[01:19:51]:   taskgrouplist:	cave_default	地下	
+[01:19:51]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:19:51]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:19:51]: running main.lua
+	
+[01:19:51]: unloading prefabs for mod workshop-347079953 (Display food values)	
+[01:19:51]: unloading prefabs for mod workshop-1595934840 (Help Me Up!)	
+[01:19:51]: unloading prefabs for mod workshop-375859599 (Health Info)	
+[01:19:51]: unloading prefabs for mod workshop-1079538195 (Moving Box)	
+[01:19:51]: unloading prefabs for mod workshop-376333686 (Combined Status)	
+[01:19:51]: unloading prefabs for mod workshop-351325790 (Geometric Placement)	
+[01:19:51]: unloading prefabs for mod workshop-378160973 (Global Positions)	
+[01:19:51]: unloading prefabs for mod workshop-1207269058 ( Simple Health Bar DST)	
+[01:19:51]: loaded modindex	
+[01:19:51]: ModIndex: Beginning normal load sequence.
+	
+[01:19:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:19:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:19:51]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:19:51]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:19:51]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:19:51]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:19:51]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:19:51]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:19:51]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:19:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:19:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:19:51]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:19:51]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:19:51]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:19:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:19:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:19:51]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:19:51]: LOADING LUA SUCCESS
+[01:19:51]: PlayerDeaths loaded morgue	1677	
+[01:19:51]: PlayerHistory loaded player_history (v2) len:606	
+[01:19:51]: ServerPreferences could not load server_preferences	
+[01:19:51]: bloom_enabled	true	
+[01:19:51]: loaded shardsaveindex	
+[01:19:51]: OnFilesLoaded()	
+[01:19:51]: OnUpdatePurchaseStateComplete	
+[01:19:51]: Klump load on boot started.	
+[01:19:51]: Klump files loaded: 	0	
+[01:19:52]: 	Unload characters	
+[01:19:52]: 	Unload BE	
+[01:19:52]: Could not unload undefined prefab (bedazzler_buff)
+[01:19:52]: 	Unload BE done	
+[01:19:52]: Could not unload undefined prefab (alterguardian_spiketrail_fx)
+[01:19:52]: Could not unload undefined prefab (ocean_splash_med1)
+[01:19:52]: Could not unload undefined prefab (ocean_splash_med1)
+[01:19:52]: Could not unload undefined prefab (ocean_splash_med1)
+[01:19:52]: Could not unload undefined prefab (ocean_splash_med1)
+[01:19:52]: Could not unload undefined prefab (shadowmeteor)
+[01:19:52]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:19:52]: Could not unload undefined prefab (gestalt_alterguardian_projectile)
+[01:19:52]: Could not unload undefined prefab (mining_moonglass_fx)
+[01:19:52]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:19:52]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:19:52]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:19:52]: Could not unload undefined prefab (moon_altar_break)
+[01:19:52]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:19:52]: Could not unload undefined prefab (burntground)
+[01:19:52]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:19:52]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:19:52]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:19:52]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:19:52]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:19:52]: Could not unload undefined prefab (moon_altar_break)
+[01:19:52]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:19:52]: Could not unload undefined prefab (burntground)
+[01:19:52]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:19:52]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:19:52]: Could not unload undefined prefab (ocean_splash_med1)
+[01:19:52]: Could not unload undefined prefab (splash_ocean)
+[01:19:52]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:19:52]: Could not unload undefined prefab (ocean_splash_med1)
+[01:19:52]: Could not unload undefined prefab (splash_ocean)
+[01:19:52]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:19:52]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:19:52]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:19:52]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:19:52]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:19:52]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:19:52]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:19:52]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:19:52]: 	Load FE	
+[01:19:53]: 	Load FE: done	
+[01:19:53]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[01:19:53]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[01:19:53]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[01:19:53]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[01:19:53]: SimLuaProxy::QueryServer()
+[01:19:53]: Check for write access: TRUE
+[01:19:53]: Check for read access: TRUE
+[01:19:53]: Available disk space for save files: 139981 MB
+[01:19:53]: ModIndex: Load sequence finished successfully.	
+[01:19:53]: Reset() returning
+[01:19:53]: Do AutoLogin	
+[01:19:53]: [MOTD] Done Loading.	
+[01:19:54]: [200] Account Communication Success (6)
+[01:19:54]: Received (KU_2duLJbNC) from TokenPurpose
+[01:19:54]: [Steam] Auth Session Ticket requested...
+[01:19:54]: [Steam] Got Auth Session Ticket
+[01:19:55]: There is no active event to get the status of.
+[01:19:58]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/cookbook_prod
+[01:19:59]: loaded inventory_cache_prod
+[01:19:59]: using inventory state token from cached file
+[01:20:01]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
+[01:20:01]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
+[01:20:03]: Getting top mod details...
+[01:20:03]: Frontend-Unloading mod 'all'.	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:20:03]: FrontendLoadMod	workshop-1595934840	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:20:03]: Fontend-Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:20:03]: Mod: workshop-1595934840 (Help Me Up!)	Loading modservercreationmain.lua	
+[01:20:03]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:20:03]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:20:03]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:03]: FrontendLoadMod	workshop-1207269058	
+[01:20:03]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:20:03]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:20:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[01:20:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:20:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:20:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:03]: FrontendLoadMod	workshop-1079538195	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:20:03]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:20:03]: Mod: workshop-1079538195 (Moving Box)	Loading modservercreationmain.lua	
+[01:20:03]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:20:03]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:20:03]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:03]: FrontendLoadMod	workshop-378160973	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:20:03]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:20:03]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[01:20:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:20:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:20:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:03]: FrontendLoadMod	workshop-347079953	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:20:03]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:20:03]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[01:20:03]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:20:03]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:20:03]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:03]: FrontendLoadMod	workshop-375859599	
+[01:20:03]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:20:03]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:20:03]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[01:20:03]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:20:03]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:20:03]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:04]: GOT top mod details...50
+[01:20:08]: Truncating to snapshot #110...
+[01:20:08]:  - session/24E9623F506B4C48/0000000111
+[01:20:08]:  - session/24E9623F506B4C48/A7GAFOAKSLEC/0000000111
+[01:20:08]:    2 file(s) removed
+[01:20:09]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:20:09]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:20:09]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:20:09]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:20:09]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:20:09]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:20:09]: Token file written to disk: APP:Klei//DoNotStarveTogether/890677898/Cluster_1/cluster_token.txt
+[01:20:09]: [IPC] Clearing pending signals #000008BC...
+[01:20:09]: [IPC] Registering handler for signal #000008BC
+[01:20:09]: [IPC] Handle #000008BC added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #000009D4...
+[01:20:09]: [IPC] Registering handler for signal #000009D4
+[01:20:09]: [IPC] Handle #000009D4 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000BF8...
+[01:20:09]: [IPC] Registering handler for signal #00000BF8
+[01:20:09]: [IPC] Handle #00000BF8 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000B7C...
+[01:20:09]: [IPC] Registering handler for signal #00000B7C
+[01:20:09]: [IPC] Handle #00000B7C added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000AD8...
+[01:20:09]: [IPC] Registering handler for signal #00000AD8
+[01:20:09]: [IPC] Handle #00000AD8 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000AB4...
+[01:20:09]: [IPC] Clearing pending signals #00000B58...
+[01:20:09]: [IPC] Registering handler for signal #00000B58
+[01:20:09]: [IPC] Handle #00000B58 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000B54...
+[01:20:09]: [IPC] Registering handler for signal #00000B54
+[01:20:09]: [IPC] Handle #00000B54 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000A04...
+[01:20:09]: [IPC] Registering handler for signal #00000A04
+[01:20:09]: [IPC] Handle #00000A04 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #000009C8...
+[01:20:09]: [IPC] Registering handler for signal #000009C8
+[01:20:09]: [IPC] Handle #000009C8 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000BD8...
+[01:20:09]: [IPC] Registering handler for signal #00000BD8
+[01:20:09]: [IPC] Handle #00000BD8 added to the Eventhandles
+[01:20:09]: [IPC] Clearing pending signals #00000A30...
+[01:20:16]: [IPC] Received DST_Secondary Starting signal !
+[01:20:16]: [IPC] Received DST_Master Starting signal !
+[01:20:31]: [IPC] Received DST_Master Ready signal !
+[01:20:44]: [IPC] Received DST_Secondary Ready signal !
+[01:20:44]: [Connect] Init client connection to 127.0.0.1|10999
+[01:20:44]: [Connect] PendingConnection::Reset(true)
+[01:20:44]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:20:44]: [Connect] InternalInitClient <3028158554744541915>
+[01:20:44]: [Shard] Starting shard mode as player
+[01:20:44]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[01:20:44]: [Connect] Sending ping(s)...
+[01:20:44]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[01:20:44]: [Connect] Ping response from 127.0.0.1|10999
+[01:20:44]: [Connect] Joining server from ping response...
+[01:20:44]: [Connect] Got join server response from lua
+[01:20:45]: [200] Account Communication Success (13)
+[01:20:45]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[01:20:45]: [Connect] DirectConnect to 127.0.0.1|10999
+[01:20:45]: Connection accepted to 127.0.0.1|10999 <5654583073987048544>
+[01:20:45]: Network external address discovered: 127.0.0.1|56481
+[01:20:45]: SendClientHandShakePacket to <5654583073987048544>
+[01:20:45]: DeserializeHandShakeServerListing
+[01:20:45]: Network tick rate: U=10(3), D=15
+[01:20:45]: Platform: 1
+[01:20:45]: Version: 469733
+[01:20:45]: [Steam] Game Connection initiated
+[01:20:45]: SendClientInventoryHandShakePacket to <5654583073987048544>
+[01:20:47]: Begin Session: 24E9623F506B4C48
+[01:20:47]: Done Downloading Client Object Data
+[01:20:47]: DownloadMods and temp disable	
+[01:20:47]: We now have the required mods, enable them for server	
+[01:20:47]: Temp Enabling workshop-1207269058	
+[01:20:47]: Temp Enabling workshop-378160973	
+[01:20:47]: Temp Enabling workshop-1595934840	
+[01:20:47]: Temp Enabling workshop-1079538195	
+[01:20:47]: Temp Enabling workshop-347079953	
+[01:20:47]: Temp Enabling workshop-375859599	
+[01:20:47]: ModIndex:SetTempModConfigData	
+[01:20:47]: Setting temp mod config for mod 	workshop-1207269058	
+[01:20:47]: Setting temp mod config for mod 	workshop-378160973	
+[01:20:47]: Setting temp mod config for mod 	workshop-1595934840	
+[01:20:47]: Setting temp mod config for mod 	workshop-1079538195	
+[01:20:47]: Setting temp mod config for mod 	workshop-347079953	
+[01:20:47]: Setting temp mod config for mod 	workshop-375859599	
+[01:20:47]: Mods are setup for server, save the mod index and proceed.	
+[01:20:47]: Downloading [1] From: server_temp
+[01:20:47]: 1 (29%) 1/1 server_temp\server_save 114000b / 380331b
+[01:20:47]: 1 (59%) 1/1 server_temp\server_save 228000b / 380331b
+[01:20:47]: 1 (89%) 1/1 server_temp\server_save 342000b / 380331b
+[01:20:47]: 1 (100%) 1/1 server_temp\server_save 380331b / 380331b
+[01:20:47]: Download complete[1] Files: 1 Size: 380331
+[01:20:47]: Collecting garbage...
+[01:20:47]: lua_gc took 0.04 seconds
+[01:20:47]: ~ShardLuaProxy()
+[01:20:47]: ~cEventLeaderboardProxy()
+[01:20:47]: ~ItemServerLuaProxy()
+[01:20:47]: ~InventoryLuaProxy()
+[01:20:47]: ~NetworkLuaProxy()
+[01:20:47]: ~SimLuaProxy()
+[01:20:47]: Cancelling LuaQueryCallback handle [10]
+[01:20:47]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:20:47]: lua_close took 0.07 seconds
+[01:20:47]: ReleaseAll
+[01:20:47]: ReleaseAll Finished
+[01:20:47]: cGame::StartPlaying
+[01:20:47]: LOADING LUA
+[01:20:47]: DoLuaFile scripts/main.lua
+[01:20:47]: DoLuaFile loading buffer scripts/main.lua
+[01:20:47]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:20:49]:   taskgrouplist:	default	联机版	
+[01:20:49]:   taskgrouplist:	classic	经典	
+[01:20:49]:   taskgrouplist:	cave_default	地下	
+[01:20:49]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:20:49]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:20:49]: running main.lua
+	
+[01:20:49]: loaded modindex	
+[01:20:49]: ModIndex: Beginning normal load sequence.
+	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[01:20:49]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-1595934840_CLIENT	
+[01:20:49]: Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[01:20:49]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[01:20:49]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[01:20:49]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[01:20:49]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:20:49]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:20:49]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:20:49]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:20:49]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[01:20:49]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-1595934840 (Help Me Up!)	Loading modmain.lua	
+[01:20:49]: modimport: ../mods/workshop-1595934840/strings_chs.lua	
+[01:20:49]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[01:20:49]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[01:20:49]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[01:20:49]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:20:49]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:20:49]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:20:49]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:20:49]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:20:49]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:20:49]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[01:20:49]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:20:49]: LOADING LUA SUCCESS
+[01:20:49]: Registering Server mod namespace "workshop-1207269058"
+[01:20:49]: Registering Server mod namespace "food item"
+[01:20:49]: Registering Server mod namespace "workshop-378160973"
+[01:20:49]: PlayerDeaths loaded morgue	1677	
+[01:20:49]: PlayerHistory loaded player_history (v2) len:606	
+[01:20:49]: ServerPreferences could not load server_preferences	
+[01:20:49]: bloom_enabled	true	
+[01:20:49]: OnFilesLoaded()	
+[01:20:49]: OnUpdatePurchaseStateComplete	
+[01:20:49]: Loading world: client_temp/server_save	
+[01:20:49]: Save file is at version 5.065	
+[01:20:49]: Klump load on boot started.	
+[01:20:49]: Klump files loaded: 	0	
+[01:20:49]: 	Unload FE	
+[01:20:49]: 	Unload FE done	
+[01:20:50]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[01:20:50]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-1595934840 (Help Me Up!)	Registering prefabs	
+[01:20:50]: Mod: workshop-1595934840 (Help Me Up!)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[01:20:50]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[01:20:50]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[01:20:50]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[01:20:50]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[01:20:50]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:20:50]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:20:50]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:20:50]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:20:50]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:20:50]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:20:50]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[01:20:50]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[01:20:50]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[01:20:50]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[01:20:50]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[01:20:50]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[01:20:50]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[01:20:50]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[01:20:50]: 	LOAD BE	
+[01:20:53]: Could not preload undefined prefab (alterguardian_spiketrail_fx)
+[01:20:54]: Could not preload undefined prefab (bedazzler_buff)
+[01:20:54]: 	LOAD BE: done	
+[01:20:54]: OVERRIDE: setting	regrowth	to	veryfast	
+[01:20:54]: OVERRIDE: setting	moon_tree_regrowth	to	veryfast	
+[01:20:54]: OVERRIDE: setting	deciduoustree_regrowth	to	veryfast	
+[01:20:54]: OVERRIDE: setting	wildfires	to	never	
+[01:20:54]: OVERRIDE: setting	shadowcreatures	to	rare	
+[01:20:54]: OVERRIDE: setting	perd	to	rare	
+[01:20:54]: OVERRIDE: setting	evergreen_regrowth	to	veryfast	
+[01:20:54]: OVERRIDE: setting	brightmarecreatures	to	rare	
+[01:20:54]: OVERRIDE: setting	carrots_regrowth	to	veryfast	
+[01:20:54]: OVERRIDE: setting	frograin	to	rare	
+[01:20:54]: OVERRIDE: setting	saltstack_regrowth	to	veryfast	
+[01:20:54]: OVERRIDE: setting	deciduousmonster	to	rare	
+[01:20:54]: OVERRIDE: setting	beefaloheat	to	rare	
+[01:20:54]: OVERRIDE: setting	twiggytrees_regrowth	to	veryfast	
+[01:20:54]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:20:54]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[01:20:54]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[01:20:54]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[01:20:54]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[01:20:54]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[01:20:54]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[01:20:54]: Loading 17 new character(s)	
+[01:20:55]: Total 17 character(s) loaded	
+[01:20:56]: Loading Nav Grid	
+[01:20:56]: World generated on build 469733 with save version: 5.065, using seed: 1625244173	
+[01:20:56]: setting 	summerlength	15	
+[01:20:56]: setting 	cavemoonphase	quarter	
+[01:20:56]: setting 	iscavefullmoon	false	
+[01:20:56]: setting 	isnightmaredawn	false	
+[01:20:56]: setting 	elapseddaysinseason	13	
+[01:20:56]: setting 	isfullmoon	false	
+[01:20:56]: setting 	moisture	1268.0291748047	
+[01:20:56]: setting 	cavephase	day	
+[01:20:56]: setting 	iscavewaxingmoon	true	
+[01:20:56]: setting 	isnightmarewild	false	
+[01:20:56]: setting 	nightmaretimeinphase	0	
+[01:20:56]: setting 	precipitationrate	0	
+[01:20:56]: setting 	iswet	false	
+[01:20:56]: setting 	isnewmoon	false	
+[01:20:56]: setting 	precipitation	none	
+[01:20:56]: setting 	israining	false	
+[01:20:56]: setting 	time	0.0020614624023437	
+[01:20:56]: setting 	temperature	-7.0985494231919	
+[01:20:56]: setting 	issummer	false	
+[01:20:56]: setting 	winterlength	15	
+[01:20:56]: setting 	springlength	20	
+[01:20:56]: setting 	timeinphase	0.0065966796875	
+[01:20:56]: setting 	moistureceil	1443.2775878906	
+[01:20:56]: setting 	isday	true	
+[01:20:56]: setting 	cycles	103	
+[01:20:56]: setting 	season	winter	
+[01:20:56]: setting 	issnowing	false	
+[01:20:56]: setting 	isalterawake	false	
+[01:20:56]: setting 	isnightmarecalm	false	
+[01:20:56]: setting 	isnight	false	
+[01:20:56]: setting 	isdusk	false	
+[01:20:56]: setting 	iscavedusk	false	
+[01:20:56]: setting 	isautumn	false	
+[01:20:56]: setting 	iscaveday	true	
+[01:20:56]: setting 	moonphase	quarter	
+[01:20:56]: setting 	seasonprogress	0.86666666666667	
+[01:20:56]: setting 	snowlevel	1	
+[01:20:56]: setting 	iswaxingmoon	true	
+[01:20:56]: setting 	autumnlength	20	
+[01:20:56]: setting 	phase	day	
+[01:20:56]: setting 	nightmaretime	0	
+[01:20:56]: setting 	pop	0.6573444724693	
+[01:20:56]: setting 	issnowcovered	true	
+[01:20:56]: setting 	nightmarephase	none	
+[01:20:56]: setting 	isspring	false	
+[01:20:56]: setting 	wetness	0	
+[01:20:56]: setting 	iscavenight	false	
+[01:20:56]: setting 	iscavenewmoon	false	
+[01:20:56]: setting 	remainingdaysinseason	2	
+[01:20:56]: setting 	iswinter	true	
+[01:20:56]: setting 	isnightmarewarn	false	
+[01:20:56]: OVERRIDE: setting	lightning	to	rare	
+[01:20:56]: Reconstructing topology	
+[01:20:56]: 	...Sorting points	
+[01:20:56]: 	...Sorting edges	
+[01:20:56]: 	...Connecting nodes	
+[01:20:56]: 	...Validating connections	
+[01:20:56]: 	...Housekeeping	
+[01:20:56]: 	...Done!	
+[01:20:56]: Check for write access: TRUE
+[01:20:56]: Check for read access: TRUE
+[01:20:56]: Available disk space for save files: 139762 MB
+[01:20:56]: ModIndex: Load sequence finished successfully.	
+[01:20:56]: Reset() returning
+[01:20:57]: Attempting to send resume request
+[01:20:57]: ReceiveResumeNotification
+[01:20:57]: Movement prediction enabled	
+[01:20:57]: Deserializing tile data (425 x 425)
+[01:20:57]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:27:05]: SAVING Morgue	11	
+[01:27:14]: DoRestart:	true	
+[01:27:15]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:27:15]: [Steam] Game Connection terminated (2130706433|10999)
+[01:27:15]: [Shard] Stopping shard mode
+[01:27:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:27:15]: [IPC] Sending signal... #00000AB4
+[01:27:17]: [IPC] Unregistering handler for signal #000008BC
+[01:27:17]: [IPC] Unregistering handler for signal #000009D4
+[01:27:17]: [IPC] Unregistering handler for signal #00000BF8
+[01:27:17]: [IPC] Unregistering handler for signal #00000B7C
+[01:27:17]: [IPC] Unregistering handler for signal #00000AD8
+[01:27:17]: [IPC] Sending signal... #00000A30
+[01:27:18]: [IPC] Unregistering handler for signal #00000B58
+[01:27:18]: [IPC] Unregistering handler for signal #00000B54
+[01:27:18]: [IPC] Unregistering handler for signal #00000A04
+[01:27:18]: [IPC] Unregistering handler for signal #000009C8
+[01:27:18]: [IPC] Unregistering handler for signal #00000BD8
+[01:27:18]: Collecting garbage...
+[01:27:18]: lua_gc took 0.05 seconds
+[01:27:18]: ~ShardLuaProxy()
+[01:27:18]: ~cEventLeaderboardProxy()
+[01:27:18]: ~ItemServerLuaProxy()
+[01:27:18]: ~InventoryLuaProxy()
+[01:27:18]: ~NetworkLuaProxy()
+[01:27:18]: ~SimLuaProxy()
+[01:27:18]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:27:18]: lua_close took 0.06 seconds
+[01:27:18]: ReleaseAll
+[01:27:18]: ReleaseAll Finished
+[01:27:18]: cGame::StartPlaying
+[01:27:18]: LOADING LUA
+[01:27:18]: DoLuaFile scripts/main.lua
+[01:27:18]: DoLuaFile loading buffer scripts/main.lua
+[01:27:18]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:27:19]:   taskgrouplist:	default	联机版	
+[01:27:19]:   taskgrouplist:	classic	经典	
+[01:27:19]:   taskgrouplist:	cave_default	地下	
+[01:27:19]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:27:19]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:27:19]: running main.lua
+	
+[01:27:20]: unloading prefabs for mod workshop-347079953 (Display food values)	
+[01:27:20]: unloading prefabs for mod workshop-1595934840 (Help Me Up!)	
+[01:27:20]: unloading prefabs for mod workshop-375859599 (Health Info)	
+[01:27:20]: unloading prefabs for mod workshop-1079538195 (Moving Box)	
+[01:27:20]: unloading prefabs for mod workshop-376333686 (Combined Status)	
+[01:27:20]: unloading prefabs for mod workshop-351325790 (Geometric Placement)	
+[01:27:20]: unloading prefabs for mod workshop-378160973 (Global Positions)	
+[01:27:20]: unloading prefabs for mod workshop-1207269058 ( Simple Health Bar DST)	
+[01:27:20]: loaded modindex	
+[01:27:20]: ModIndex: Beginning normal load sequence.
+	
+[01:27:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:27:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:27:20]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:27:20]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:27:20]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:27:20]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:27:20]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:27:20]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:20]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:27:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:27:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:27:20]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:27:20]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:20]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:27:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:27:20]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:27:20]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:27:20]: LOADING LUA SUCCESS
+[01:27:20]: PlayerDeaths loaded morgue	1848	
+[01:27:20]: PlayerHistory loaded player_history (v2) len:606	
+[01:27:20]: ServerPreferences could not load server_preferences	
+[01:27:20]: bloom_enabled	true	
+[01:27:20]: loaded shardsaveindex	
+[01:27:20]: OnFilesLoaded()	
+[01:27:20]: OnUpdatePurchaseStateComplete	
+[01:27:20]: Klump load on boot started.	
+[01:27:20]: Klump files loaded: 	0	
+[01:27:20]: 	Unload characters	
+[01:27:20]: 	Unload BE	
+[01:27:20]: Could not unload undefined prefab (bedazzler_buff)
+[01:27:20]: 	Unload BE done	
+[01:27:20]: Could not unload undefined prefab (alterguardian_spiketrail_fx)
+[01:27:20]: Could not unload undefined prefab (ocean_splash_med1)
+[01:27:20]: Could not unload undefined prefab (ocean_splash_med1)
+[01:27:20]: Could not unload undefined prefab (ocean_splash_med1)
+[01:27:20]: Could not unload undefined prefab (ocean_splash_med1)
+[01:27:20]: Could not unload undefined prefab (shadowmeteor)
+[01:27:20]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:27:20]: Could not unload undefined prefab (gestalt_alterguardian_projectile)
+[01:27:20]: Could not unload undefined prefab (mining_moonglass_fx)
+[01:27:20]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:27:20]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:27:20]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:27:20]: Could not unload undefined prefab (moon_altar_break)
+[01:27:20]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:27:20]: Could not unload undefined prefab (burntground)
+[01:27:20]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:27:20]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:27:20]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:27:20]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:27:20]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:27:20]: Could not unload undefined prefab (moon_altar_break)
+[01:27:20]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:27:20]: Could not unload undefined prefab (burntground)
+[01:27:20]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:27:20]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:27:20]: Could not unload undefined prefab (ocean_splash_med1)
+[01:27:20]: Could not unload undefined prefab (splash_ocean)
+[01:27:20]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:27:20]: Could not unload undefined prefab (ocean_splash_med1)
+[01:27:20]: Could not unload undefined prefab (splash_ocean)
+[01:27:21]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:27:21]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:27:21]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:27:21]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:27:21]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:27:21]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:27:21]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:27:21]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:27:21]: 	Load FE	
+[01:27:21]: 	Load FE: done	
+[01:27:21]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[01:27:21]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[01:27:21]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[01:27:21]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[01:27:21]: SimLuaProxy::QueryServer()
+[01:27:21]: Check for write access: TRUE
+[01:27:21]: Check for read access: TRUE
+[01:27:21]: Available disk space for save files: 139752 MB
+[01:27:21]: ModIndex: Load sequence finished successfully.	
+[01:27:21]: Reset() returning
+[01:27:21]: Do AutoLogin	
+[01:27:22]: [MOTD] Done Loading.	
+[01:27:22]: [200] Account Communication Success (6)
+[01:27:22]: Received (KU_2duLJbNC) from TokenPurpose
+[01:27:22]: [Steam] Auth Session Ticket requested...
+[01:27:22]: [Steam] Got Auth Session Ticket
+[01:27:23]: There is no active event to get the status of.
+[01:27:26]: loaded inventory_cache_prod
+[01:27:26]: using inventory state token from cached file
+[01:27:27]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
+[01:27:27]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
+[01:27:30]: Getting top mod details...
+[01:27:30]: Frontend-Unloading mod 'all'.	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:27:30]: FrontendLoadMod	workshop-1595934840	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:27:30]: Fontend-Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:27:30]: Mod: workshop-1595934840 (Help Me Up!)	Loading modservercreationmain.lua	
+[01:27:30]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:27:30]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:27:30]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:30]: FrontendLoadMod	workshop-1207269058	
+[01:27:30]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:27:30]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:27:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[01:27:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:27:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:27:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:30]: FrontendLoadMod	workshop-1079538195	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:27:30]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:27:30]: Mod: workshop-1079538195 (Moving Box)	Loading modservercreationmain.lua	
+[01:27:30]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:27:30]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:27:30]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:30]: FrontendLoadMod	workshop-378160973	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:27:30]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:27:30]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[01:27:30]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:27:30]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:27:30]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:30]: FrontendLoadMod	workshop-347079953	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:27:30]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:27:30]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[01:27:30]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:27:30]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:27:30]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:30]: FrontendLoadMod	workshop-375859599	
+[01:27:30]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:27:30]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:27:30]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[01:27:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:27:30]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:27:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:27:31]: GOT top mod details...50
+[01:27:41]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:27:41]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:27:41]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:27:41]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:27:41]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:27:41]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:27:41]: Token file written to disk: APP:Klei//DoNotStarveTogether/890677898/Cluster_1/cluster_token.txt
+[01:27:41]: [IPC] Clearing pending signals #000008BC...
+[01:27:41]: [IPC] Registering handler for signal #000008BC
+[01:27:41]: [IPC] Handle #000008BC added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #000009D4...
+[01:27:41]: [IPC] Registering handler for signal #000009D4
+[01:27:41]: [IPC] Handle #000009D4 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000BF8...
+[01:27:41]: [IPC] Registering handler for signal #00000BF8
+[01:27:41]: [IPC] Handle #00000BF8 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000B7C...
+[01:27:41]: [IPC] Registering handler for signal #00000B7C
+[01:27:41]: [IPC] Handle #00000B7C added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000AD8...
+[01:27:41]: [IPC] Registering handler for signal #00000AD8
+[01:27:41]: [IPC] Handle #00000AD8 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000AB4...
+[01:27:41]: [IPC] Clearing pending signals #00000B58...
+[01:27:41]: [IPC] Registering handler for signal #00000B58
+[01:27:41]: [IPC] Handle #00000B58 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000B54...
+[01:27:41]: [IPC] Registering handler for signal #00000B54
+[01:27:41]: [IPC] Handle #00000B54 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000A04...
+[01:27:41]: [IPC] Registering handler for signal #00000A04
+[01:27:41]: [IPC] Handle #00000A04 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #000009C8...
+[01:27:41]: [IPC] Registering handler for signal #000009C8
+[01:27:41]: [IPC] Handle #000009C8 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000BD8...
+[01:27:41]: [IPC] Registering handler for signal #00000BD8
+[01:27:41]: [IPC] Handle #00000BD8 added to the Eventhandles
+[01:27:41]: [IPC] Clearing pending signals #00000A30...
+[01:27:48]: [IPC] Received DST_Master Starting signal !
+[01:27:48]: [IPC] Received DST_Secondary Starting signal !
+[01:28:03]: [IPC] Received DST_Master Ready signal !
+[01:28:05]: [IPC] Received DST_Secondary Ready signal !
+[01:28:05]: [Connect] Init client connection to 127.0.0.1|10999
+[01:28:05]: [Connect] PendingConnection::Reset(true)
+[01:28:05]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:28:05]: [Connect] InternalInitClient <3457726701229691830>
+[01:28:05]: [Shard] Starting shard mode as player
+[01:28:05]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[01:28:05]: [Connect] Sending ping(s)...
+[01:28:05]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[01:28:05]: [Connect] Ping response from 127.0.0.1|10999
+[01:28:05]: [Connect] Joining server from ping response...
+[01:28:05]: [Connect] Got join server response from lua
+[01:28:06]: [200] Account Communication Success (13)
+[01:28:06]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[01:28:06]: [Connect] DirectConnect to 127.0.0.1|10999
+[01:28:06]: Connection accepted to 127.0.0.1|10999 <3210911724987633580>
+[01:28:06]: Network external address discovered: 127.0.0.1|58771
+[01:28:06]: SendClientHandShakePacket to <3210911724987633580>
+[01:28:06]: DeserializeHandShakeServerListing
+[01:28:06]: Network tick rate: U=10(3), D=15
+[01:28:06]: Platform: 1
+[01:28:06]: Version: 469733
+[01:28:06]: [Steam] Game Connection initiated
+[01:28:06]: SendClientInventoryHandShakePacket to <3210911724987633580>
+[01:28:08]: Begin Session: 24E9623F506B4C48
+[01:28:08]: Done Downloading Client Object Data
+[01:28:08]: DownloadMods and temp disable	
+[01:28:08]: We now have the required mods, enable them for server	
+[01:28:08]: Temp Enabling workshop-1207269058	
+[01:28:08]: Temp Enabling workshop-1079538195	
+[01:28:08]: Temp Enabling workshop-1595934840	
+[01:28:08]: Temp Enabling workshop-347079953	
+[01:28:08]: Temp Enabling workshop-378160973	
+[01:28:08]: Temp Enabling workshop-375859599	
+[01:28:08]: ModIndex:SetTempModConfigData	
+[01:28:08]: Setting temp mod config for mod 	workshop-1207269058	
+[01:28:08]: Setting temp mod config for mod 	workshop-378160973	
+[01:28:08]: Setting temp mod config for mod 	workshop-1595934840	
+[01:28:08]: Setting temp mod config for mod 	workshop-1079538195	
+[01:28:08]: Setting temp mod config for mod 	workshop-347079953	
+[01:28:08]: Setting temp mod config for mod 	workshop-375859599	
+[01:28:08]: Mods are setup for server, save the mod index and proceed.	
+[01:28:08]: Downloading [2] From: server_temp
+[01:28:08]: 2 (29%) 1/1 server_temp\server_save 114000b / 380807b
+[01:28:08]: 2 (59%) 1/1 server_temp\server_save 228000b / 380807b
+[01:28:08]: 2 (89%) 1/1 server_temp\server_save 342000b / 380807b
+[01:28:08]: 2 (100%) 1/1 server_temp\server_save 380807b / 380807b
+[01:28:08]: Download complete[2] Files: 1 Size: 380807
+[01:28:08]: Collecting garbage...
+[01:28:08]: lua_gc took 0.04 seconds
+[01:28:08]: ~ShardLuaProxy()
+[01:28:08]: ~cEventLeaderboardProxy()
+[01:28:08]: ~ItemServerLuaProxy()
+[01:28:08]: ~InventoryLuaProxy()
+[01:28:08]: ~NetworkLuaProxy()
+[01:28:08]: ~SimLuaProxy()
+[01:28:08]: Cancelling LuaQueryCallback handle [14]
+[01:28:08]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:28:09]: lua_close took 0.07 seconds
+[01:28:09]: ReleaseAll
+[01:28:09]: ReleaseAll Finished
+[01:28:09]: cGame::StartPlaying
+[01:28:09]: LOADING LUA
+[01:28:09]: DoLuaFile scripts/main.lua
+[01:28:09]: DoLuaFile loading buffer scripts/main.lua
+[01:28:09]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:28:10]:   taskgrouplist:	default	联机版	
+[01:28:10]:   taskgrouplist:	classic	经典	
+[01:28:10]:   taskgrouplist:	cave_default	地下	
+[01:28:10]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:28:10]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:28:10]: running main.lua
+	
+[01:28:10]: loaded modindex	
+[01:28:10]: ModIndex: Beginning normal load sequence.
+	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[01:28:10]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-1595934840_CLIENT	
+[01:28:10]: Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[01:28:10]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[01:28:10]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[01:28:10]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[01:28:10]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:28:10]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:28:10]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:28:10]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:28:10]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[01:28:10]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-1595934840 (Help Me Up!)	Loading modmain.lua	
+[01:28:10]: modimport: ../mods/workshop-1595934840/strings_chs.lua	
+[01:28:10]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[01:28:10]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[01:28:10]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[01:28:10]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:10]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:10]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:28:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[01:28:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:28:11]: LOADING LUA SUCCESS
+[01:28:11]: Registering Server mod namespace "workshop-1207269058"
+[01:28:11]: Registering Server mod namespace "food item"
+[01:28:11]: Registering Server mod namespace "workshop-378160973"
+[01:28:11]: PlayerDeaths loaded morgue	1848	
+[01:28:11]: PlayerHistory loaded player_history (v2) len:606	
+[01:28:11]: ServerPreferences could not load server_preferences	
+[01:28:11]: bloom_enabled	true	
+[01:28:11]: OnFilesLoaded()	
+[01:28:11]: OnUpdatePurchaseStateComplete	
+[01:28:11]: Loading world: client_temp/server_save	
+[01:28:11]: Save file is at version 5.065	
+[01:28:11]: Klump load on boot started.	
+[01:28:11]: Klump files loaded: 	0	
+[01:28:11]: 	Unload FE	
+[01:28:11]: 	Unload FE done	
+[01:28:12]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[01:28:12]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-1595934840 (Help Me Up!)	Registering prefabs	
+[01:28:12]: Mod: workshop-1595934840 (Help Me Up!)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[01:28:12]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[01:28:12]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[01:28:12]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[01:28:12]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[01:28:12]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:28:12]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:28:12]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:28:12]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:28:12]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:28:12]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:28:12]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[01:28:12]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[01:28:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[01:28:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[01:28:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[01:28:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[01:28:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[01:28:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[01:28:12]: 	LOAD BE	
+[01:28:14]: Could not preload undefined prefab (alterguardian_spiketrail_fx)
+[01:28:15]: Could not preload undefined prefab (bedazzler_buff)
+[01:28:15]: 	LOAD BE: done	
+[01:28:15]: OVERRIDE: setting	regrowth	to	veryfast	
+[01:28:15]: OVERRIDE: setting	moon_tree_regrowth	to	veryfast	
+[01:28:15]: OVERRIDE: setting	deciduoustree_regrowth	to	veryfast	
+[01:28:15]: OVERRIDE: setting	wildfires	to	never	
+[01:28:15]: OVERRIDE: setting	shadowcreatures	to	never	
+[01:28:15]: OVERRIDE: setting	perd	to	rare	
+[01:28:15]: OVERRIDE: setting	evergreen_regrowth	to	veryfast	
+[01:28:15]: OVERRIDE: setting	brightmarecreatures	to	rare	
+[01:28:15]: OVERRIDE: setting	carrots_regrowth	to	veryfast	
+[01:28:15]: OVERRIDE: setting	frograin	to	rare	
+[01:28:15]: OVERRIDE: setting	saltstack_regrowth	to	veryfast	
+[01:28:15]: OVERRIDE: setting	deciduousmonster	to	rare	
+[01:28:15]: OVERRIDE: setting	beefaloheat	to	rare	
+[01:28:15]: OVERRIDE: setting	twiggytrees_regrowth	to	veryfast	
+[01:28:15]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:28:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[01:28:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[01:28:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[01:28:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[01:28:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[01:28:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[01:28:16]: Loading 17 new character(s)	
+[01:28:16]: Total 17 character(s) loaded	
+[01:28:17]: Loading Nav Grid	
+[01:28:17]: World generated on build 469733 with save version: 5.065, using seed: 1625244173	
+[01:28:17]: setting 	summerlength	15	
+[01:28:17]: setting 	cavemoonphase	quarter	
+[01:28:17]: setting 	iscavefullmoon	false	
+[01:28:17]: setting 	isnightmaredawn	false	
+[01:28:17]: setting 	elapseddaysinseason	13	
+[01:28:17]: setting 	isfullmoon	false	
+[01:28:17]: setting 	moisture	906.07543945313	
+[01:28:17]: setting 	cavephase	night	
+[01:28:17]: setting 	iscavewaxingmoon	true	
+[01:28:17]: setting 	isnightmarewild	false	
+[01:28:17]: setting 	nightmaretimeinphase	0	
+[01:28:17]: setting 	precipitationrate	0.51307910680771	
+[01:28:17]: setting 	iswet	false	
+[01:28:17]: setting 	isnewmoon	false	
+[01:28:17]: setting 	precipitation	snow	
+[01:28:17]: setting 	israining	false	
+[01:28:17]: setting 	time	0.78917946815491	
+[01:28:17]: setting 	temperature	-11.773797860456	
+[01:28:17]: setting 	issummer	false	
+[01:28:17]: setting 	winterlength	15	
+[01:28:17]: setting 	springlength	20	
+[01:28:17]: setting 	timeinphase	0.3253742980957	
+[01:28:17]: setting 	moistureceil	1443.2775878906	
+[01:28:17]: setting 	isday	false	
+[01:28:17]: setting 	cycles	103	
+[01:28:17]: setting 	season	winter	
+[01:28:17]: setting 	issnowing	true	
+[01:28:17]: setting 	isalterawake	false	
+[01:28:17]: setting 	isnightmarecalm	false	
+[01:28:17]: setting 	isnight	true	
+[01:28:17]: setting 	isdusk	false	
+[01:28:17]: setting 	iscavedusk	false	
+[01:28:17]: setting 	isautumn	false	
+[01:28:17]: setting 	iscaveday	false	
+[01:28:17]: setting 	moonphase	quarter	
+[01:28:17]: setting 	seasonprogress	0.86666666666667	
+[01:28:17]: setting 	snowlevel	1	
+[01:28:17]: setting 	iswaxingmoon	true	
+[01:28:17]: setting 	autumnlength	20	
+[01:28:17]: setting 	phase	night	
+[01:28:17]: setting 	nightmaretime	0	
+[01:28:17]: setting 	pop	1	
+[01:28:17]: setting 	issnowcovered	true	
+[01:28:17]: setting 	nightmarephase	none	
+[01:28:17]: setting 	isspring	false	
+[01:28:17]: setting 	wetness	0	
+[01:28:17]: setting 	iscavenight	true	
+[01:28:17]: setting 	iscavenewmoon	false	
+[01:28:17]: setting 	remainingdaysinseason	2	
+[01:28:17]: setting 	iswinter	true	
+[01:28:17]: setting 	isnightmarewarn	false	
+[01:28:17]: OVERRIDE: setting	lightning	to	rare	
+[01:28:17]: Reconstructing topology	
+[01:28:17]: 	...Sorting points	
+[01:28:17]: 	...Sorting edges	
+[01:28:17]: 	...Connecting nodes	
+[01:28:17]: 	...Validating connections	
+[01:28:17]: 	...Housekeeping	
+[01:28:17]: 	...Done!	
+[01:28:17]: Check for write access: TRUE
+[01:28:17]: Check for read access: TRUE
+[01:28:17]: Available disk space for save files: 139755 MB
+[01:28:17]: ModIndex: Load sequence finished successfully.	
+[01:28:17]: Reset() returning
+[01:28:18]: Attempting to send resume request
+[01:28:19]: ReceiveResumeNotification
+[01:28:19]: Movement prediction enabled	
+[01:28:19]: Deserializing tile data (425 x 425)
+[01:28:19]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:28:25]: DoRestart:	true	
+[01:28:26]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:28:26]: [Steam] Game Connection terminated (2130706433|10999)
+[01:28:26]: [Shard] Stopping shard mode
+[01:28:26]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:28:26]: [IPC] Sending signal... #00000AB4
+[01:28:28]: [IPC] Unregistering handler for signal #000008BC
+[01:28:28]: [IPC] Unregistering handler for signal #000009D4
+[01:28:28]: [IPC] Unregistering handler for signal #00000BF8
+[01:28:28]: [IPC] Unregistering handler for signal #00000B7C
+[01:28:28]: [IPC] Unregistering handler for signal #00000AD8
+[01:28:28]: [IPC] Sending signal... #00000A30
+[01:28:29]: [IPC] Unregistering handler for signal #00000B58
+[01:28:29]: [IPC] Unregistering handler for signal #00000B54
+[01:28:29]: [IPC] Unregistering handler for signal #00000A04
+[01:28:29]: [IPC] Unregistering handler for signal #000009C8
+[01:28:29]: [IPC] Unregistering handler for signal #00000BD8
+[01:28:29]: Collecting garbage...
+[01:28:29]: lua_gc took 0.05 seconds
+[01:28:29]: ~ShardLuaProxy()
+[01:28:29]: ~cEventLeaderboardProxy()
+[01:28:29]: ~ItemServerLuaProxy()
+[01:28:29]: ~InventoryLuaProxy()
+[01:28:29]: ~NetworkLuaProxy()
+[01:28:29]: ~SimLuaProxy()
+[01:28:29]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:28:29]: lua_close took 0.06 seconds
+[01:28:29]: ReleaseAll
+[01:28:29]: ReleaseAll Finished
+[01:28:29]: cGame::StartPlaying
+[01:28:29]: LOADING LUA
+[01:28:29]: DoLuaFile scripts/main.lua
+[01:28:29]: DoLuaFile loading buffer scripts/main.lua
+[01:28:29]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:28:31]:   taskgrouplist:	default	联机版	
+[01:28:31]:   taskgrouplist:	classic	经典	
+[01:28:31]:   taskgrouplist:	cave_default	地下	
+[01:28:31]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:28:31]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:28:31]: running main.lua
+	
+[01:28:31]: unloading prefabs for mod workshop-347079953 (Display food values)	
+[01:28:31]: unloading prefabs for mod workshop-1595934840 (Help Me Up!)	
+[01:28:31]: unloading prefabs for mod workshop-375859599 (Health Info)	
+[01:28:31]: unloading prefabs for mod workshop-1079538195 (Moving Box)	
+[01:28:31]: unloading prefabs for mod workshop-376333686 (Combined Status)	
+[01:28:31]: unloading prefabs for mod workshop-351325790 (Geometric Placement)	
+[01:28:31]: unloading prefabs for mod workshop-378160973 (Global Positions)	
+[01:28:31]: unloading prefabs for mod workshop-1207269058 ( Simple Health Bar DST)	
+[01:28:31]: loaded modindex	
+[01:28:31]: ModIndex: Beginning normal load sequence.
+	
+[01:28:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:31]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:28:31]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:28:31]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:28:31]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:28:31]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:28:31]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:31]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:28:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:31]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:28:31]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:31]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:28:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:28:31]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:28:31]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:28:31]: LOADING LUA SUCCESS
+[01:28:31]: PlayerDeaths loaded morgue	1848	
+[01:28:31]: PlayerHistory loaded player_history (v2) len:606	
+[01:28:31]: ServerPreferences could not load server_preferences	
+[01:28:31]: bloom_enabled	true	
+[01:28:31]: loaded shardsaveindex	
+[01:28:31]: OnFilesLoaded()	
+[01:28:31]: OnUpdatePurchaseStateComplete	
+[01:28:31]: Klump load on boot started.	
+[01:28:31]: Klump files loaded: 	0	
+[01:28:31]: 	Unload characters	
+[01:28:31]: 	Unload BE	
+[01:28:31]: Could not unload undefined prefab (bedazzler_buff)
+[01:28:31]: 	Unload BE done	
+[01:28:31]: Could not unload undefined prefab (alterguardian_spiketrail_fx)
+[01:28:31]: Could not unload undefined prefab (ocean_splash_med1)
+[01:28:31]: Could not unload undefined prefab (ocean_splash_med1)
+[01:28:31]: Could not unload undefined prefab (ocean_splash_med1)
+[01:28:31]: Could not unload undefined prefab (ocean_splash_med1)
+[01:28:31]: Could not unload undefined prefab (shadowmeteor)
+[01:28:31]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:28:31]: Could not unload undefined prefab (gestalt_alterguardian_projectile)
+[01:28:31]: Could not unload undefined prefab (mining_moonglass_fx)
+[01:28:31]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:28:31]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:28:31]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:28:31]: Could not unload undefined prefab (moon_altar_break)
+[01:28:31]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:28:31]: Could not unload undefined prefab (burntground)
+[01:28:31]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:28:31]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:28:31]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:28:31]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:28:31]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:28:31]: Could not unload undefined prefab (moon_altar_break)
+[01:28:31]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:28:31]: Could not unload undefined prefab (burntground)
+[01:28:31]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:28:31]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:28:31]: Could not unload undefined prefab (ocean_splash_med1)
+[01:28:31]: Could not unload undefined prefab (splash_ocean)
+[01:28:31]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:28:31]: Could not unload undefined prefab (ocean_splash_med1)
+[01:28:31]: Could not unload undefined prefab (splash_ocean)
+[01:28:32]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:28:32]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:28:32]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:28:32]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:28:32]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:28:32]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:28:32]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:28:32]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:28:32]: 	Load FE	
+[01:28:33]: 	Load FE: done	
+[01:28:33]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[01:28:33]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[01:28:33]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[01:28:33]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[01:28:33]: SimLuaProxy::QueryServer()
+[01:28:33]: Check for write access: TRUE
+[01:28:33]: Check for read access: TRUE
+[01:28:33]: Available disk space for save files: 139755 MB
+[01:28:33]: ModIndex: Load sequence finished successfully.	
+[01:28:33]: Reset() returning
+[01:28:33]: Do AutoLogin	
+[01:28:33]: [200] Account Communication Success (6)
+[01:28:33]: Received (KU_2duLJbNC) from TokenPurpose
+[01:28:33]: [Steam] Auth Session Ticket requested...
+[01:28:33]: [MOTD] Done Loading.	
+[01:28:33]: [Steam] Got Auth Session Ticket
+[01:28:34]: There is no active event to get the status of.
+[01:28:36]: loaded inventory_cache_prod
+[01:28:36]: using inventory state token from cached file
+[01:28:38]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
+[01:28:38]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
+[01:28:45]: Getting top mod details...
+[01:28:45]: Frontend-Unloading mod 'all'.	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:28:45]: FrontendLoadMod	workshop-1595934840	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:28:45]: Fontend-Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:28:45]: Mod: workshop-1595934840 (Help Me Up!)	Loading modservercreationmain.lua	
+[01:28:45]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:28:45]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:28:45]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:45]: FrontendLoadMod	workshop-1207269058	
+[01:28:45]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:28:45]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:28:45]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[01:28:45]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:28:45]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:28:45]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:45]: FrontendLoadMod	workshop-1079538195	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:28:45]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:28:45]: Mod: workshop-1079538195 (Moving Box)	Loading modservercreationmain.lua	
+[01:28:45]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:28:45]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:28:45]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:45]: FrontendLoadMod	workshop-378160973	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:28:45]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:28:45]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[01:28:45]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:28:45]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:28:45]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:45]: FrontendLoadMod	workshop-347079953	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:28:45]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:28:45]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[01:28:45]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:28:45]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:28:45]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:45]: FrontendLoadMod	workshop-375859599	
+[01:28:45]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:28:45]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:28:45]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[01:28:45]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:28:45]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:28:45]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:28:45]: GOT top mod details...50
+[01:28:50]: Truncating to snapshot #110...
+[01:28:50]:  - session/24E9623F506B4C48/0000000111
+[01:28:50]:  - session/24E9623F506B4C48/0000000112
+[01:28:50]:  - session/24E9623F506B4C48/A7GAFOAKSLEC/0000000112
+[01:28:50]:  - session/24E9623F506B4C48/A7GAFOAKSLEC/0000000111
+[01:28:50]:    4 file(s) removed
+[01:28:51]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:28:51]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:28:51]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:28:51]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:28:51]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:28:51]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:28:51]: Token file written to disk: APP:Klei//DoNotStarveTogether/890677898/Cluster_1/cluster_token.txt
+[01:28:51]: [IPC] Clearing pending signals #000008BC...
+[01:28:51]: [IPC] Registering handler for signal #000008BC
+[01:28:51]: [IPC] Handle #000008BC added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #000009D4...
+[01:28:51]: [IPC] Registering handler for signal #000009D4
+[01:28:51]: [IPC] Handle #000009D4 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000BF8...
+[01:28:51]: [IPC] Registering handler for signal #00000BF8
+[01:28:51]: [IPC] Handle #00000BF8 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000B7C...
+[01:28:51]: [IPC] Registering handler for signal #00000B7C
+[01:28:51]: [IPC] Handle #00000B7C added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000AD8...
+[01:28:51]: [IPC] Registering handler for signal #00000AD8
+[01:28:51]: [IPC] Handle #00000AD8 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000AB4...
+[01:28:51]: [IPC] Clearing pending signals #00000B58...
+[01:28:51]: [IPC] Registering handler for signal #00000B58
+[01:28:51]: [IPC] Handle #00000B58 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000B54...
+[01:28:51]: [IPC] Registering handler for signal #00000B54
+[01:28:51]: [IPC] Handle #00000B54 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000A04...
+[01:28:51]: [IPC] Registering handler for signal #00000A04
+[01:28:51]: [IPC] Handle #00000A04 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #000009C8...
+[01:28:51]: [IPC] Registering handler for signal #000009C8
+[01:28:51]: [IPC] Handle #000009C8 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000BD8...
+[01:28:51]: [IPC] Registering handler for signal #00000BD8
+[01:28:51]: [IPC] Handle #00000BD8 added to the Eventhandles
+[01:28:51]: [IPC] Clearing pending signals #00000A30...
+[01:28:57]: [IPC] Received DST_Master Starting signal !
+[01:28:57]: [IPC] Received DST_Secondary Starting signal !
+[01:29:12]: [IPC] Received DST_Master Ready signal !
+[01:29:25]: [IPC] Received DST_Secondary Ready signal !
+[01:29:25]: [Connect] Init client connection to 127.0.0.1|10999
+[01:29:25]: [Connect] PendingConnection::Reset(true)
+[01:29:25]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:25]: [Connect] InternalInitClient <9085282836184553987>
+[01:29:25]: [Shard] Starting shard mode as player
+[01:29:25]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[01:29:25]: [Connect] Sending ping(s)...
+[01:29:25]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[01:29:25]: [Connect] Ping response from 127.0.0.1|10999
+[01:29:25]: [Connect] Joining server from ping response...
+[01:29:25]: [Connect] Got join server response from lua
+[01:29:26]: [200] Account Communication Success (13)
+[01:29:26]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[01:29:26]: [Connect] DirectConnect to 127.0.0.1|10999
+[01:29:26]: Connection accepted to 127.0.0.1|10999 <7595675621488008705>
+[01:29:26]: Network external address discovered: 127.0.0.1|59158
+[01:29:26]: SendClientHandShakePacket to <7595675621488008705>
+[01:29:27]: DeserializeHandShakeServerListing
+[01:29:27]: Network tick rate: U=10(3), D=15
+[01:29:27]: Platform: 1
+[01:29:27]: Version: 469733
+[01:29:27]: [Steam] Game Connection initiated
+[01:29:27]: SendClientInventoryHandShakePacket to <7595675621488008705>
+[01:29:28]: Begin Session: 24E9623F506B4C48
+[01:29:28]: Done Downloading Client Object Data
+[01:29:28]: DownloadMods and temp disable	
+[01:29:28]: We now have the required mods, enable them for server	
+[01:29:28]: Temp Enabling workshop-1207269058	
+[01:29:28]: Temp Enabling workshop-347079953	
+[01:29:28]: Temp Enabling workshop-1595934840	
+[01:29:28]: Temp Enabling workshop-378160973	
+[01:29:28]: Temp Enabling workshop-1079538195	
+[01:29:28]: Temp Enabling workshop-375859599	
+[01:29:28]: ModIndex:SetTempModConfigData	
+[01:29:28]: Setting temp mod config for mod 	workshop-1207269058	
+[01:29:28]: Setting temp mod config for mod 	workshop-378160973	
+[01:29:28]: Setting temp mod config for mod 	workshop-1595934840	
+[01:29:28]: Setting temp mod config for mod 	workshop-1079538195	
+[01:29:28]: Setting temp mod config for mod 	workshop-347079953	
+[01:29:28]: Setting temp mod config for mod 	workshop-375859599	
+[01:29:28]: Mods are setup for server, save the mod index and proceed.	
+[01:29:28]: Downloading [3] From: server_temp
+[01:29:28]: 3 (29%) 1/1 server_temp\server_save 114000b / 380335b
+[01:29:28]: 3 (59%) 1/1 server_temp\server_save 228000b / 380335b
+[01:29:28]: 3 (89%) 1/1 server_temp\server_save 342000b / 380335b
+[01:29:28]: 3 (100%) 1/1 server_temp\server_save 380335b / 380335b
+[01:29:28]: Download complete[3] Files: 1 Size: 380335
+[01:29:29]: Collecting garbage...
+[01:29:29]: lua_gc took 0.05 seconds
+[01:29:29]: ~ShardLuaProxy()
+[01:29:29]: ~cEventLeaderboardProxy()
+[01:29:29]: ~ItemServerLuaProxy()
+[01:29:29]: ~InventoryLuaProxy()
+[01:29:29]: ~NetworkLuaProxy()
+[01:29:29]: ~SimLuaProxy()
+[01:29:29]: Cancelling LuaQueryCallback handle [18]
+[01:29:29]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:29]: lua_close took 0.07 seconds
+[01:29:29]: ReleaseAll
+[01:29:29]: ReleaseAll Finished
+[01:29:29]: cGame::StartPlaying
+[01:29:29]: LOADING LUA
+[01:29:29]: DoLuaFile scripts/main.lua
+[01:29:29]: DoLuaFile loading buffer scripts/main.lua
+[01:29:29]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:29:30]:   taskgrouplist:	default	联机版	
+[01:29:30]:   taskgrouplist:	classic	经典	
+[01:29:30]:   taskgrouplist:	cave_default	地下	
+[01:29:30]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:29:30]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:29:30]: running main.lua
+	
+[01:29:30]: loaded modindex	
+[01:29:30]: ModIndex: Beginning normal load sequence.
+	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[01:29:30]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-1595934840_CLIENT	
+[01:29:30]: Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[01:29:30]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[01:29:30]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[01:29:30]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[01:29:30]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:29:30]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:29:30]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:29:30]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:29:30]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[01:29:30]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-1595934840 (Help Me Up!)	Loading modmain.lua	
+[01:29:30]: modimport: ../mods/workshop-1595934840/strings_chs.lua	
+[01:29:30]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[01:29:30]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[01:29:30]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[01:29:30]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:29:30]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:29:30]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595934840	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:29:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:29:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:29:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:29:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[01:29:31]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:29:31]: LOADING LUA SUCCESS
+[01:29:31]: Registering Server mod namespace "workshop-1207269058"
+[01:29:31]: Registering Server mod namespace "food item"
+[01:29:31]: Registering Server mod namespace "workshop-378160973"
+[01:29:31]: PlayerDeaths loaded morgue	1848	
+[01:29:31]: PlayerHistory loaded player_history (v2) len:606	
+[01:29:31]: ServerPreferences could not load server_preferences	
+[01:29:31]: bloom_enabled	true	
+[01:29:31]: OnFilesLoaded()	
+[01:29:31]: OnUpdatePurchaseStateComplete	
+[01:29:31]: Loading world: client_temp/server_save	
+[01:29:31]: Save file is at version 5.065	
+[01:29:31]: Klump load on boot started.	
+[01:29:31]: Klump files loaded: 	0	
+[01:29:31]: 	Unload FE	
+[01:29:31]: 	Unload FE done	
+[01:29:32]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[01:29:32]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-1595934840 (Help Me Up!)	Registering prefabs	
+[01:29:32]: Mod: workshop-1595934840 (Help Me Up!)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[01:29:32]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[01:29:32]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[01:29:32]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[01:29:32]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[01:29:32]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:29:32]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:29:32]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:29:32]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:29:32]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:29:32]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:29:32]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[01:29:32]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[01:29:32]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[01:29:32]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[01:29:32]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[01:29:32]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[01:29:32]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[01:29:32]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[01:29:32]: 	LOAD BE	
+[01:29:35]: Could not preload undefined prefab (alterguardian_spiketrail_fx)
+[01:29:35]: Could not preload undefined prefab (bedazzler_buff)
+[01:29:36]: 	LOAD BE: done	
+[01:29:36]: OVERRIDE: setting	regrowth	to	veryfast	
+[01:29:36]: OVERRIDE: setting	moon_tree_regrowth	to	veryfast	
+[01:29:36]: OVERRIDE: setting	deciduoustree_regrowth	to	veryfast	
+[01:29:36]: OVERRIDE: setting	wildfires	to	never	
+[01:29:36]: OVERRIDE: setting	shadowcreatures	to	never	
+[01:29:36]: OVERRIDE: setting	perd	to	rare	
+[01:29:36]: OVERRIDE: setting	evergreen_regrowth	to	veryfast	
+[01:29:36]: OVERRIDE: setting	brightmarecreatures	to	rare	
+[01:29:36]: OVERRIDE: setting	carrots_regrowth	to	veryfast	
+[01:29:36]: OVERRIDE: setting	frograin	to	rare	
+[01:29:36]: OVERRIDE: setting	saltstack_regrowth	to	veryfast	
+[01:29:36]: OVERRIDE: setting	deciduousmonster	to	rare	
+[01:29:36]: OVERRIDE: setting	beefaloheat	to	rare	
+[01:29:36]: OVERRIDE: setting	twiggytrees_regrowth	to	veryfast	
+[01:29:36]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:29:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[01:29:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[01:29:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[01:29:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[01:29:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[01:29:36]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[01:29:36]: Loading 17 new character(s)	
+[01:29:36]: Total 17 character(s) loaded	
+[01:29:37]: Loading Nav Grid	
+[01:29:37]: World generated on build 469733 with save version: 5.065, using seed: 1625244173	
+[01:29:37]: setting 	summerlength	15	
+[01:29:37]: setting 	cavemoonphase	quarter	
+[01:29:37]: setting 	iscavefullmoon	false	
+[01:29:37]: setting 	isnightmaredawn	false	
+[01:29:37]: setting 	elapseddaysinseason	13	
+[01:29:37]: setting 	isfullmoon	false	
+[01:29:37]: setting 	moisture	1268.0291748047	
+[01:29:37]: setting 	cavephase	day	
+[01:29:37]: setting 	iscavewaxingmoon	true	
+[01:29:37]: setting 	isnightmarewild	false	
+[01:29:37]: setting 	nightmaretimeinphase	0	
+[01:29:37]: setting 	precipitationrate	0	
+[01:29:37]: setting 	iswet	false	
+[01:29:37]: setting 	isnewmoon	false	
+[01:29:37]: setting 	precipitation	none	
+[01:29:37]: setting 	israining	false	
+[01:29:37]: setting 	time	0.0020614624023437	
+[01:29:37]: setting 	temperature	-7.0985494231919	
+[01:29:37]: setting 	issummer	false	
+[01:29:37]: setting 	winterlength	15	
+[01:29:37]: setting 	springlength	20	
+[01:29:37]: setting 	timeinphase	0.0065966796875	
+[01:29:37]: setting 	moistureceil	1443.2775878906	
+[01:29:37]: setting 	isday	true	
+[01:29:37]: setting 	cycles	103	
+[01:29:37]: setting 	season	winter	
+[01:29:37]: setting 	issnowing	false	
+[01:29:37]: setting 	isalterawake	false	
+[01:29:37]: setting 	isnightmarecalm	false	
+[01:29:37]: setting 	isnight	false	
+[01:29:37]: setting 	isdusk	false	
+[01:29:37]: setting 	iscavedusk	false	
+[01:29:37]: setting 	isautumn	false	
+[01:29:37]: setting 	iscaveday	true	
+[01:29:37]: setting 	moonphase	quarter	
+[01:29:37]: setting 	seasonprogress	0.86666666666667	
+[01:29:37]: setting 	snowlevel	1	
+[01:29:37]: setting 	iswaxingmoon	true	
+[01:29:37]: setting 	autumnlength	20	
+[01:29:37]: setting 	phase	day	
+[01:29:37]: setting 	nightmaretime	0	
+[01:29:37]: setting 	pop	0.6573444724693	
+[01:29:37]: setting 	issnowcovered	true	
+[01:29:37]: setting 	nightmarephase	none	
+[01:29:37]: setting 	isspring	false	
+[01:29:37]: setting 	wetness	0	
+[01:29:37]: setting 	iscavenight	false	
+[01:29:37]: setting 	iscavenewmoon	false	
+[01:29:37]: setting 	remainingdaysinseason	2	
+[01:29:37]: setting 	iswinter	true	
+[01:29:37]: setting 	isnightmarewarn	false	
+[01:29:37]: OVERRIDE: setting	lightning	to	rare	
+[01:29:37]: Reconstructing topology	
+[01:29:37]: 	...Sorting points	
+[01:29:37]: 	...Sorting edges	
+[01:29:37]: 	...Connecting nodes	
+[01:29:37]: 	...Validating connections	
+[01:29:37]: 	...Housekeeping	
+[01:29:37]: 	...Done!	
+[01:29:37]: Check for write access: TRUE
+[01:29:37]: Check for read access: TRUE
+[01:29:37]: Available disk space for save files: 139765 MB
+[01:29:37]: ModIndex: Load sequence finished successfully.	
+[01:29:37]: Reset() returning
+[01:29:39]: Attempting to send resume request
+[01:29:39]: ReceiveResumeNotification
+[01:29:39]: Movement prediction enabled	
+[01:29:39]: Deserializing tile data (425 x 425)
+[01:29:39]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:37:38]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:37:47]: DoRestart:	true	
+[01:37:48]: Serializing user: session/24E9623F506B4C48/A7GAFOAKSLEC/0000000001
+[01:37:48]: [Steam] Game Connection terminated (2130706433|10999)
+[01:37:48]: [Shard] Stopping shard mode
+[01:37:48]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:37:48]: [IPC] Sending signal... #00000AB4
+[01:37:50]: [IPC] Unregistering handler for signal #000008BC
+[01:37:50]: [IPC] Unregistering handler for signal #000009D4
+[01:37:50]: [IPC] Unregistering handler for signal #00000BF8
+[01:37:50]: [IPC] Unregistering handler for signal #00000B7C
+[01:37:50]: [IPC] Unregistering handler for signal #00000AD8
+[01:37:50]: [IPC] Sending signal... #00000A30
+[01:37:51]: [IPC] Unregistering handler for signal #00000B58
+[01:37:51]: [IPC] Unregistering handler for signal #00000B54
+[01:37:51]: [IPC] Unregistering handler for signal #00000A04
+[01:37:51]: [IPC] Unregistering handler for signal #000009C8
+[01:37:51]: [IPC] Unregistering handler for signal #00000BD8
+[01:37:51]: Collecting garbage...
+[01:37:51]: lua_gc took 0.04 seconds
+[01:37:51]: ~ShardLuaProxy()
+[01:37:51]: ~cEventLeaderboardProxy()
+[01:37:51]: ~ItemServerLuaProxy()
+[01:37:51]: ~InventoryLuaProxy()
+[01:37:51]: ~NetworkLuaProxy()
+[01:37:51]: ~SimLuaProxy()
+[01:37:51]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:37:51]: lua_close took 0.06 seconds
+[01:37:51]: ReleaseAll
+[01:37:51]: ReleaseAll Finished
+[01:37:51]: cGame::StartPlaying
+[01:37:51]: LOADING LUA
+[01:37:51]: DoLuaFile scripts/main.lua
+[01:37:51]: DoLuaFile loading buffer scripts/main.lua
+[01:37:51]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[01:37:53]:   taskgrouplist:	default	联机版	
+[01:37:53]:   taskgrouplist:	classic	经典	
+[01:37:53]:   taskgrouplist:	cave_default	地下	
+[01:37:53]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[01:37:53]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:37:53]: running main.lua
+	
+[01:37:53]: unloading prefabs for mod workshop-347079953 (Display food values)	
+[01:37:53]: unloading prefabs for mod workshop-1595934840 (Help Me Up!)	
+[01:37:53]: unloading prefabs for mod workshop-375859599 (Health Info)	
+[01:37:53]: unloading prefabs for mod workshop-1079538195 (Moving Box)	
+[01:37:53]: unloading prefabs for mod workshop-376333686 (Combined Status)	
+[01:37:53]: unloading prefabs for mod workshop-351325790 (Geometric Placement)	
+[01:37:53]: unloading prefabs for mod workshop-378160973 (Global Positions)	
+[01:37:53]: unloading prefabs for mod workshop-1207269058 ( Simple Health Bar DST)	
+[01:37:53]: loaded modindex	
+[01:37:53]: ModIndex: Beginning normal load sequence.
+	
+[01:37:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:37:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:37:53]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[01:37:53]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.4.1	
+[01:37:53]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[01:37:53]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[01:37:53]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[01:37:53]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:37:53]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[01:37:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:37:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:37:53]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[01:37:53]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:37:53]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[01:37:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[01:37:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[01:37:53]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:37:53]: LOADING LUA SUCCESS
+[01:37:53]: PlayerDeaths loaded morgue	1848	
+[01:37:53]: PlayerHistory loaded player_history (v2) len:606	
+[01:37:53]: ServerPreferences could not load server_preferences	
+[01:37:53]: bloom_enabled	true	
+[01:37:53]: loaded shardsaveindex	
+[01:37:53]: OnFilesLoaded()	
+[01:37:53]: OnUpdatePurchaseStateComplete	
+[01:37:53]: Klump load on boot started.	
+[01:37:53]: Klump files loaded: 	0	
+[01:37:53]: 	Unload characters	
+[01:37:53]: 	Unload BE	
+[01:37:53]: Could not unload undefined prefab (bedazzler_buff)
+[01:37:53]: 	Unload BE done	
+[01:37:53]: Could not unload undefined prefab (alterguardian_spiketrail_fx)
+[01:37:53]: Could not unload undefined prefab (ocean_splash_med1)
+[01:37:53]: Could not unload undefined prefab (ocean_splash_med1)
+[01:37:53]: Could not unload undefined prefab (ocean_splash_med1)
+[01:37:53]: Could not unload undefined prefab (ocean_splash_med1)
+[01:37:53]: Could not unload undefined prefab (shadowmeteor)
+[01:37:53]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:37:53]: Could not unload undefined prefab (gestalt_alterguardian_projectile)
+[01:37:53]: Could not unload undefined prefab (mining_moonglass_fx)
+[01:37:53]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:37:53]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:37:53]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:37:53]: Could not unload undefined prefab (moon_altar_break)
+[01:37:53]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:37:53]: Could not unload undefined prefab (burntground)
+[01:37:53]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:37:53]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:37:53]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:37:53]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:37:53]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:37:53]: Could not unload undefined prefab (moon_altar_break)
+[01:37:53]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:37:53]: Could not unload undefined prefab (burntground)
+[01:37:53]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:37:53]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:37:53]: Could not unload undefined prefab (ocean_splash_med1)
+[01:37:53]: Could not unload undefined prefab (splash_ocean)
+[01:37:53]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:37:53]: Could not unload undefined prefab (ocean_splash_med1)
+[01:37:53]: Could not unload undefined prefab (splash_ocean)
+[01:37:54]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[01:37:54]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[01:37:54]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[01:37:54]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[01:37:54]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[01:37:54]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[01:37:54]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[01:37:54]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[01:37:54]: 	Load FE	
+[01:37:54]: 	Load FE: done	
+[01:37:54]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[01:37:54]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[01:37:54]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[01:37:54]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[01:37:54]: SimLuaProxy::QueryServer()
+[01:37:54]: Check for write access: TRUE
+[01:37:54]: Check for read access: TRUE
+[01:37:54]: Available disk space for save files: 139746 MB
+[01:37:54]: ModIndex: Load sequence finished successfully.	
+[01:37:54]: Reset() returning
+[01:37:54]: Do AutoLogin	
+[01:37:55]: [MOTD] Done Loading.	
+[01:37:55]: [200] Account Communication Success (6)
+[01:37:55]: Received (KU_2duLJbNC) from TokenPurpose
+[01:37:55]: [Steam] Auth Session Ticket requested...
+[01:37:56]: [Steam] Got Auth Session Ticket
+[01:37:57]: There is no active event to get the status of.
+[01:37:59]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/cookbook_prod
+[01:38:00]: loaded inventory_cache_prod
+[01:38:00]: using inventory state token from cached file
+[01:38:02]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
+[01:38:02]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
+[01:38:09]: Getting top mod details...
+[01:38:09]: Frontend-Unloading mod 'all'.	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:38:09]: FrontendLoadMod	workshop-1595934840	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[01:38:09]: Fontend-Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.7	
+[01:38:09]: Mod: workshop-1595934840 (Help Me Up!)	Loading modservercreationmain.lua	
+[01:38:09]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:38:09]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[01:38:09]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:38:09]: FrontendLoadMod	workshop-1207269058	
+[01:38:09]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[01:38:09]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[01:38:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[01:38:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:38:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[01:38:09]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:38:09]: FrontendLoadMod	workshop-1079538195	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[01:38:09]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[01:38:09]: Mod: workshop-1079538195 (Moving Box)	Loading modservercreationmain.lua	
+[01:38:09]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:38:09]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[01:38:09]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:38:09]: FrontendLoadMod	workshop-378160973	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[01:38:09]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:38:09]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[01:38:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:38:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:38:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:38:09]: FrontendLoadMod	workshop-347079953	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[01:38:09]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[01:38:09]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[01:38:09]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:38:09]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[01:38:09]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:38:09]: FrontendLoadMod	workshop-375859599	
+[01:38:09]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[01:38:09]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[01:38:09]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[01:38:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[01:38:09]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[01:38:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:38:10]: GOT top mod details...50
+[01:38:13]: Frontend-Unloading mod 'all'.	
+[01:38:17]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:38:17]: Collecting garbage...
+[01:38:17]: lua_gc took 0.03 seconds
+[01:38:17]: ~ShardLuaProxy()
+[01:38:17]: ~cEventLeaderboardProxy()
+[01:38:17]: ~ItemServerLuaProxy()
+[01:38:17]: ~InventoryLuaProxy()
+[01:38:17]: ~NetworkLuaProxy()
+[01:38:17]: ~SimLuaProxy()
+[01:38:17]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:38:17]: lua_close took 0.06 seconds
+[01:38:18]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:38:18]: [Steam] Auth ticket cancelled
+[01:38:18]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:38:18]: anim/yotb_beefalo_rug.zip - 4
+[01:38:18]: anim/structure_collapse_fx.zip - 8
+[01:38:18]: anim/oceanfishing_bobber_sporty_build.zip - 12
+[01:38:18]: anim/splash_ocean.zip - 4
+[01:38:18]: anim/gems.zip - 24
+[01:38:18]: anim/oceanfishingbobber_goose_build.zip - 12
+[01:38:18]: anim/statue_ruins_small.zip - 16
+[01:38:18]: anim/oceanfishing_bobber_ball_build.zip - 12
+[01:38:18]: anim/statue_ruins.zip - 16
+[01:38:18]: anim/statue_ruins_small_gem.zip - 16
+[01:38:18]: anim/oceanfishingbobber_robin_build.zip - 12
+[01:38:18]: anim/splash_water_drop.zip - 20
+[01:38:18]: anim/oceanfishingbobber_robin_winter_build.zip - 12
+[01:38:18]: anim/nightmarefuel.zip - 4
+[01:38:18]: anim/yotb_post_ribbons.zip - 4
+[01:38:18]: anim/oceanfishing_bobber_ball.zip - 96
+[01:38:18]: anim/oceanfishingbobber_crow_build.zip - 12
+[01:38:18]: anim/yotb_spotlight.zip - 4
+[01:38:18]: anim/oceanfishingbobber_canary_build.zip - 12
+[01:38:18]: anim/die.zip - 4
+[01:38:18]: anim/statue_ruins_gem.zip - 16
+[01:38:18]: anim/thulecite.zip - 4
+[01:38:18]: anim/statue_ruins_fx.zip - 4
+[01:38:18]: anim/oceanfishingbobber_malbatross_build.zip - 12
+[01:38:18]: anim/oceanfishing_hook.zip - 4
+[01:38:18]: anim/marble.zip - 4
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:38:18]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[01:38:18]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[01:38:18]: anim/gems.zip:gems--atlas-0.tex - 1
+[01:38:18]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[01:38:18]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[01:38:18]: anim/yotb_post_ribbons.zip:yotb_post_ribbons--atlas-0.tex - 1
+[01:38:18]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[01:38:18]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishingbobber_robin_winter_build.zip:oceanfishingbobber_robin_winter_build--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishingbobber_malbatross_build.zip:oceanfishingbobber_malbatross_build--atlas-0.tex - 1
+[01:38:18]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[01:38:18]: anim/oceanfishingbobber_robin_build.zip:oceanfishingbobber_robin_build--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishing_hook.zip:oceanfishing_hook--atlas-0.tex - 1
+[01:38:18]: anim/yotb_spotlight.zip:yotb_spotlight--atlas-0.tex - 1
+[01:38:18]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[01:38:18]: anim/splash_water_drop.zip:splash_water_drop--atlas-0.tex - 1
+[01:38:18]: anim/splash_ocean.zip:splash_ocean--atlas-0.tex - 1
+[01:38:18]: anim/marble.zip:marble--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishingbobber_goose_build.zip:oceanfishingbobber_goose_build--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishing_bobber_sporty_build.zip:oceanfishing_bobber_sporty_build--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishing_bobber_ball_build.zip:oceanfishing_bobber_ball_build--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishingbobber_crow_build.zip:oceanfishingbobber_crow_build--atlas-0.tex - 1
+[01:38:18]: anim/oceanfishingbobber_canary_build.zip:oceanfishingbobber_canary_build--atlas-0.tex - 1
+[01:38:18]: anim/die.zip:die--atlas-0.tex - 1
+[01:38:18]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[01:38:18]: anim/yotb_beefalo_rug.zip:yotb_beefalo_rug--atlas-0.tex - 1
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:18]: CurlRequestManager::ClientThread::Main() complete
+[01:38:18]: HttpClient2 discarded 0 callbacks.
+[01:38:18]: Shutting down
