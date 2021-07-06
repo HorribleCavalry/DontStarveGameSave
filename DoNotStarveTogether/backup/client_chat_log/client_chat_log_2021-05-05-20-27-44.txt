@@ -1,0 +1,74 @@
+[00:03:16]: [Join Announcement] 黑学
+[00:03:18]: [Join Announcement] DDaily
+[00:05:03]: [Join Announcement] 黑学
+[00:05:31]: [Join Announcement] DDaily
+[00:07:30]: [Join Announcement] 黑学
+[00:07:56]: [Join Announcement] DDaily
+[00:12:04]: [Death Announcement] 黑学 死于： 冻伤. 若无人救援，60秒后变成幽灵！
+[00:12:10]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[00:27:37]: [Death Announcement] DDaily 死于： 触手. 若无人救援，60秒后变成幽灵！
+[00:28:57]: [Death Announcement] 黑学 死于： 触手. 若无人救援，60秒后变成幽灵！
+[00:34:03]: [Death Announcement] 恐怖骑兵团 死于： 猎犬. 若无人救援，60秒后变成幽灵！
+[00:35:45]: [Join Announcement] DDaily
+[00:35:48]: [Join Announcement] 黑学
+[00:38:11]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[00:38:16]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[00:42:06]: [Death Announcement] 黑学 死于： 恐怖利爪. 若无人救援，60秒后变成幽灵！
+[00:42:19]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[00:50:52]: [Death Announcement] 黑学 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[00:51:01]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[00:52:38]: [Death Announcement] DDaily 死于： 饥饿。他变成了可怕的鬼魂！
+[00:57:45]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[01:06:10]: [Death Announcement] 黑学 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[01:06:44]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[01:09:01]: [Death Announcement] 黑学 死于： 兔人. 若无人救援，60秒后变成幽灵！
+[01:11:35]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:18:08]: [Death Announcement] DDaily 死于： 兔人. 若无人救援，60秒后变成幽灵！
+[01:18:41]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[01:20:22]: [Leave Announcement] 黑学
+[01:21:07]: [Join Announcement] 黑学
+[01:33:20]: [Death Announcement] DDaily 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:36:09]: [Join Announcement] 黑学
+[01:36:25]: [Join Announcement] DDaily
+[01:38:06]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:38:14]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:38:49]: [Death Announcement] DDaily 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:39:05]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:43:23]: [Join Announcement] 黑学
+[01:44:59]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:45:34]: [Join Announcement] DDaily
+[01:45:45]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:46:00]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:46:22]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:47:40]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[01:51:12]: [Join Announcement] DDaily
+[01:51:20]: [Join Announcement] 黑学
+[02:03:03]: [Death Announcement] DDaily 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[02:04:32]: [Death Announcement] 黑学 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[02:06:50]: [Join Announcement] 黑学
+[02:06:51]: [Join Announcement] DDaily
+[02:08:28]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[02:09:09]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[02:11:23]: [Death Announcement] DDaily 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[02:11:42]: [Death Announcement] 黑学 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[02:13:24]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[02:13:41]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[02:15:57]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[02:16:47]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[02:17:19]: [Death Announcement] 黑学 死于： 麋鹿鹅. 若无人救援，60秒后变成幽灵！
+[02:18:05]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[02:21:51]: [Death Announcement] 恐怖骑兵团 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[02:22:03]: [Resurrect Announcement] 恐怖骑兵团 复活自： 黑学.
+[02:22:39]: [Leave Announcement] 黑学
+[02:33:56]: [Join Announcement] 黑学
+[02:44:20]: [Death Announcement] DDaily 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[02:45:01]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[02:50:47]: [Death Announcement] DDaily 死于： 红色猎犬. 若无人救援，60秒后变成幽灵！
+[02:53:41]: [Leave Announcement] 黑学
+[02:55:26]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[03:01:34]: [Death Announcement] DDaily 死于： 爬行恐惧. 若无人救援，60秒后变成幽灵！
+[03:02:18]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[03:11:08]: [Death Announcement] 恐怖骑兵团 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[03:11:23]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[03:12:48]: [Death Announcement] DDaily 死于： 饥饿。他变成了可怕的鬼魂！
+[03:13:55]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.

@@ -1,0 +1,10 @@
+[00:00:40]: [Join Announcement] 恐怖骑兵团
+[00:01:48]: [Join Announcement] DDaily
+[00:02:13]: [Join Announcement] 黑学
+[00:07:50]: [Death Announcement] DDaily 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[00:08:01]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[00:13:46]: [Death Announcement] DDaily 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[00:14:00]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[00:44:56]: [Death Announcement] 恐怖骑兵团 死于： 饥饿。他变成了可怕的鬼魂！
+[00:45:33]: [Leave Announcement] 恐怖骑兵团
+[00:45:34]: [Leave Announcement] DDaily

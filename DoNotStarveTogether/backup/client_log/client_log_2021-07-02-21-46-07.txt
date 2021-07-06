@@ -1,0 +1,299 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 25%
+	Available Physical Memory: 48998m/65449m
+	Available Page File: 56172m/75177m
+	Available Virtual Memory: 3959m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 33m
+	Working Set Size: 33m
+	Quota Peak Page Pool Usage: 243k
+	Quota Page Pool Usage: 238k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 469733
+[00:00:00]: Current time: Fri Jul 02 21:44:49 2021
+
+[00:00:00]: Don't Starve Together: 469733 WIN32_STEAM
+[00:00:00]: Build Date: 6381
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: +connect_netid 76561198431313324 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 6954971
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/890677898/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (19884)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: Texture Streaming: ENABLED
+[00:00:00]: Threaded Renderer: ENABLED
+[00:00:00]: ProfileIndex:0.50
+[00:00:00]: THREAD - started 'SimUpdateThread' (28608)
+[00:00:00]: THREAD - started 'RenderThread' (24608)
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (6668)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: [Connect] OnDirectJoinRequested( '', '-', '76561198431313324' )
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Authorized application D:\Softwares\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (25148)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198850943626
+[00:00:01]: SteamID: 76561198850943626
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 专业版
+    version                   10.0.19042
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  16
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD Ryzen 9 3950X 16-Core Processor            
+    manufacturer              AuthenticAMD
+    clockSpeed                3493
+  RAM                       
+    megsOfRam                 65536
+  GPU                       
+    name                      NVIDIA GeForce RTX 2080 Ti
+    driverDate                20200930000000.000000-000
+    megsOfRam                 4095
+    refreshRate               59
+    videoModeDescription      2560 x 1440 x 4294967296 种颜色
+    driverVersion             27.21.14.5671
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: THREAD - started 'AsynTextureLoadthread' (8568)
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: THREAD - started 'AsynTextureLoadthread' (17632)
+[00:00:01]: CreateWindow: Requesting 2560,1377 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (0 x 23)
+[00:00:01]:    Adjusted Window Pos (-8 x -8)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce RTX 2080 Ti)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (24324)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:03]:   taskgrouplist:	default	联机版	
+[00:00:03]:   taskgrouplist:	classic	经典	
+[00:00:03]:   taskgrouplist:	cave_default	地下	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:03]: running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:04]: ModIndex: Beginning normal load sequence.
+	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:00:04]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.10	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:04]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.3	
+[00:00:04]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:04]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:04]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:04]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:00:04]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:04]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:04]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:13]: LOADING LUA SUCCESS
+[00:00:14]: PlayerDeaths loaded morgue	6484	
+[00:00:14]: PlayerHistory loaded player_history (v2) len:1006	
+[00:00:14]: ServerPreferences loaded server_preferences	2	
+[00:00:14]: bloom_enabled	true	
+[00:00:14]: loaded shardsaveindex	
+[00:00:14]: OnFilesLoaded()	
+[00:00:14]: OnUpdatePurchaseStateComplete	
+[00:00:14]: Klump load on boot started.	
+[00:00:14]: Klump files loaded: 	0	
+[00:00:14]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:14]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:00:15]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:00:15]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:00:15]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:00:15]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:00:15]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:00:15]: 	Load FE	
+[00:00:20]: 	Load FE: done	
+[00:00:20]: THREAD - started 'FilesExistAsyncThread' (20364)
+[00:00:20]: FilesExistAsyncThread started (18176 files)...
+[00:00:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[00:00:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[00:00:20]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[00:00:20]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[00:00:20]: SimLuaProxy::QueryServer()
+[00:00:20]: Check for write access: TRUE
+[00:00:20]: Check for read access: TRUE
+[00:00:20]: Available disk space for save files: 552464 MB
+[00:00:20]: ModIndex: Load sequence finished successfully.	
+[00:00:20]: Reset() returning
+[00:00:20]: ForceAuthenticationDialog
+[00:00:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[00:00:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[00:00:20]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[00:00:20]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=469733	
+[00:00:20]: SimLuaProxy::QueryServer()
+[00:00:20]: cSoundEmitterComponent::PlaySound() already playing sound named [FROMNUM]
+[00:00:20]: [Steam] Auth Session Ticket requested...
+[00:00:21]: [Steam] Got Auth Session Ticket
+[00:00:21]: [MOTD] Done Loading.	
+[00:00:21]: [MOTD] Downloading image for box8 from https://klei-motd.klei.com/dst/webber/steam/schinese/webber_motd_bd750.tex
+[00:00:21]: [MOTD] Done Loading.	
+[00:00:21]: [MOTD] Downloading image for box8 from https://klei-motd.klei.com/dst/webber/steam/schinese/webber_motd_bd750.tex
+[00:00:21]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box8.tex
+[00:00:21]: [MOTD] Downloading image for box4 from https://klei-motd.klei.com/dst/webber/steam/schinese/motd_skins_39a0a.tex
+[00:00:21]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box8.tex
+[00:00:21]: [MOTD] Downloading image for box7 from https://klei-motd.klei.com/dst/webber/steam/schinese/witchitem_mast_nautical_e5c3e.tex
+[00:00:22]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box4.tex
+[00:00:22]: [MOTD] Downloading image for box5 from https://klei-motd.klei.com/dst/webber/steam/schinese/motd_items_0d463.tex
+[00:00:22]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box7.tex
+[00:00:22]: [MOTD] Downloading image for box9 from https://klei-motd.klei.com/dst/webber/steam/schinese/dst_roadmap_2021_e4c9f.tex
+[00:00:23]: [200] Account Communication Success (3)
+[00:00:23]: Logging in as KU_2duLJbNC
+[00:00:23]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box5.tex
+[00:00:23]: [MOTD] Downloading image for box1 from https://klei-motd.klei.com/dst/webber/steam/schinese/RhymesWithPlay_4f78c.tex
+[00:00:23]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box9.tex
+[00:00:24]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box1.tex
+[00:00:24]: attempt to call a nil value
+LUA ERROR stack traceback:
+
+[00:00:24]: attempt to call a nil value
+LUA ERROR stack traceback:
+	
+[00:00:25]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/pricing_cache
+[00:00:25]: There is no active event to get the status of.
+[00:00:29]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/cookbook_prod
+[00:00:30]: loaded inventory_cache_prod
+[00:00:30]: using inventory state token from cached file
+[00:00:30]: Collecting garbage...
+[00:00:30]: lua_gc took 0.04 seconds
+[00:00:30]: ~ShardLuaProxy()
+[00:00:30]: ~cEventLeaderboardProxy()
+[00:00:30]: ~ItemServerLuaProxy()
+[00:00:30]: ~InventoryLuaProxy()
+[00:00:30]: ~NetworkLuaProxy()
+[00:00:30]: ~SimLuaProxy()
+[00:00:30]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:31]: FilesExistAsyncThread aborted.
+[00:00:31]: ... FilesExistAsyncThread complete
+[00:00:31]: lua_close took 0.10 seconds
+[00:00:31]: ReleaseAll
+[00:00:31]: ReleaseAll Finished
+[00:00:31]: cGame::StartPlaying
+[00:00:31]: LOADING LUA
+[00:00:31]: DoLuaFile scripts/main.lua
+[00:00:31]: DoLuaFile loading buffer scripts/main.lua
+[00:00:31]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:32]:   taskgrouplist:	default	联机版	
+[00:00:32]:   taskgrouplist:	classic	经典	
+[00:00:32]:   taskgrouplist:	cave_default	地下	
+[00:00:32]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:32]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:32]: running main.lua
+	
+[00:00:32]: unloading prefabs for mod workshop-376333686 (Combined Status)	
+[00:00:32]: unloading prefabs for mod workshop-351325790 (Geometric Placement)	
+[00:00:32]: loaded modindex	
+[00:00:32]: ModIndex: Beginning normal load sequence.
+	
+[00:00:33]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:33]: LOADING LUA SUCCESS
+[00:00:33]: PlayerDeaths loaded morgue	6484	
+[00:00:33]: PlayerHistory loaded player_history (v2) len:1006	
+[00:00:33]: ServerPreferences loaded server_preferences	2	
+[00:00:33]: bloom_enabled	true	
+[00:00:33]: loaded shardsaveindex	
+[00:00:33]: OnFilesLoaded()	
+[00:00:33]: OnUpdatePurchaseStateComplete	
+[00:00:33]: Klump load on boot started.	
+[00:00:33]: Klump files loaded: 	0	
+[00:00:33]: 	Unload BE	
+[00:00:33]: 	Unload BE done	

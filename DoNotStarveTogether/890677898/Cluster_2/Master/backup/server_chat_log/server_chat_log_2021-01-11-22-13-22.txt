@@ -1,0 +1,7 @@
+[00:00:46]: [Join Announcement] 恐怖骑兵团
+[00:01:05]: [Join Announcement] 黑学
+[00:01:23]: [Join Announcement] DDaily
+[00:09:11]: [Death Announcement] 恐怖骑兵团 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[00:10:49]: [Leave Announcement] 恐怖骑兵团
+[00:10:50]: [Leave Announcement] DDaily
+[00:10:50]: [Leave Announcement] 黑学

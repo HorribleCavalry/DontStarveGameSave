@@ -1,0 +1,11 @@
+[00:00:47]: [Join Announcement] 恐怖骑兵团
+[00:01:22]: [Join Announcement] 黑学
+[00:01:48]: [Join Announcement] DDaily
+[00:05:56]: [Death Announcement] 黑学 死于： 冻伤. 若无人救援，60秒后变成幽灵！
+[00:06:02]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[00:21:29]: [Death Announcement] DDaily 死于： 触手. 若无人救援，60秒后变成幽灵！
+[00:22:49]: [Death Announcement] 黑学 死于： 触手. 若无人救援，60秒后变成幽灵！
+[00:27:55]: [Death Announcement] 恐怖骑兵团 死于： 猎犬. 若无人救援，60秒后变成幽灵！
+[00:28:00]: [Leave Announcement] 恐怖骑兵团
+[00:28:01]: [Leave Announcement] DDaily
+[00:28:01]: [Leave Announcement] 黑学

@@ -1,0 +1,5 @@
+[00:00:46]: [Join Announcement] 恐怖骑兵团
+[00:02:05]: [Say] (KU_2duLJbNC) 恐怖骑兵团: 6
+[00:03:41]: [Join Announcement] DDaily
+[00:14:00]: [Leave Announcement] 恐怖骑兵团
+[00:14:01]: [Leave Announcement] DDaily

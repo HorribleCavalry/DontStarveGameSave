@@ -1,0 +1,14 @@
+[00:00:46]: [Join Announcement] 恐怖骑兵团
+[00:00:54]: [Join Announcement] 黑学
+[00:01:16]: [Join Announcement] DDaily
+[00:01:32]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[00:01:39]: [Death Announcement] DDaily 死于： 触手. 若无人救援，60秒后变成幽灵！
+[00:01:57]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[00:11:35]: [Death Announcement] 黑学 死于： 蜘蛛战士. 若无人救援，60秒后变成幽灵！
+[00:12:20]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[00:35:03]: [Death Announcement] 黑学 死于： 冻伤. 若无人救援，60秒后变成幽灵！
+[00:35:12]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[00:38:37]: [Death Announcement] DDaily 死于： 龙蝇. 若无人救援，60秒后变成幽灵！
+[00:39:05]: [Leave Announcement] 黑学
+[00:39:07]: [Leave Announcement] DDaily
+[00:39:24]: [Leave Announcement] 恐怖骑兵团

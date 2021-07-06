@@ -1,0 +1,8 @@
+[00:00:49]: [Join Announcement] 恐怖骑兵团
+[00:01:02]: [Join Announcement] DDaily
+[00:01:10]: [Join Announcement] 黑学
+[00:12:53]: [Death Announcement] DDaily 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[00:14:22]: [Death Announcement] 黑学 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[00:15:08]: [Leave Announcement] 恐怖骑兵团
+[00:15:09]: [Leave Announcement] DDaily
+[00:15:09]: [Leave Announcement] 黑学

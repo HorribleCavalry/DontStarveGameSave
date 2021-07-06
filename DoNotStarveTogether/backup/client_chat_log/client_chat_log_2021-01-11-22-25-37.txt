@@ -1,0 +1,42 @@
+[00:06:15]: [Join Announcement] 黑学
+[00:06:45]: [Join Announcement] DDaily
+[00:11:39]: [Say] (KU_2duLJbNC) 恐怖骑兵团: 我需要硝石
+[00:14:36]: [Say] (KU_0j0lUnZe) 黑学: 为什么不进去steam语音?
+[00:16:50]: [Say] (KU_0j0lUnZe) 黑学: k恐怖你进语音了吗
+[00:17:06]: [Say] (KU_2duLJbNC) 恐怖骑兵团: haimei
+[00:17:14]: [Leave Announcement] 黑学
+[00:17:39]: [Leave Announcement] DDaily
+[00:28:45]: [Join Announcement] DDaily
+[00:29:11]: [Join Announcement] 黑学
+[00:34:47]: [Death Announcement] DDaily 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[00:34:58]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[00:40:43]: [Death Announcement] DDaily 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[00:40:57]: [Resurrect Announcement] DDaily 复活自： 黑学.
+[01:11:53]: [Death Announcement] 恐怖骑兵团 死于： 饥饿。他变成了可怕的鬼魂！
+[01:15:40]: [Join Announcement] 黑学
+[01:15:43]: [Join Announcement] DDaily
+[01:24:50]: [Death Announcement] 黑学 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[01:25:07]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:33:24]: [Join Announcement] 黑学
+[01:33:34]: [Join Announcement] DDaily
+[01:36:29]: [Death Announcement] 黑学 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
+[01:36:39]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:41:50]: [Death Announcement] 恐怖骑兵团 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[01:42:13]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[01:42:37]: [Death Announcement] 黑学 死于： 企鸥. 若无人救援，60秒后变成幽灵！
+[01:42:50]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
+[01:43:46]: [Death Announcement] 恐怖骑兵团 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[01:43:54]: [Resurrect Announcement] 恐怖骑兵团 复活自： 黑学.
+[01:44:06]: [Death Announcement] 黑学 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[01:44:14]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[01:44:36]: [Death Announcement] 黑学 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[01:44:49]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[01:46:28]: [Death Announcement] 黑学 死于： 蜘蛛. 若无人救援，60秒后变成幽灵！
+[01:46:45]: [Resurrect Announcement] 黑学 复活自： DDaily.
+[01:57:56]: [Death Announcement] DDaily 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[01:58:10]: [Death Announcement] 黑学 死于： 皮弗娄牛. 若无人救援，60秒后变成幽灵！
+[02:04:36]: [Join Announcement] 黑学
+[02:04:54]: [Join Announcement] DDaily
+[02:12:42]: [Death Announcement] 恐怖骑兵团 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[02:16:02]: [Join Announcement] 黑学
+[02:16:12]: [Join Announcement] DDaily

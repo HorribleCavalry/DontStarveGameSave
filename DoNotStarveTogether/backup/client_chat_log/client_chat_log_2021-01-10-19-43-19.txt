@@ -1,0 +1,21 @@
+[00:02:25]: [Join Announcement] DDaily
+[00:17:05]: [Death Announcement] 恐怖骑兵团 死于： 饥饿。他变成了可怕的鬼魂！
+[00:21:40]: [Death Announcement] DDaily 死于： 怪物肉. 若无人救援，60秒后变成幽灵！
+[00:30:28]: [Death Announcement] DDaily 死于： 黑暗. 若无人救援，60秒后变成幽灵！
+[00:38:19]: [Join Announcement] 黑学
+[00:43:27]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[00:48:32]: [Leave Announcement] 黑学
+[00:57:45]: [Announcement] DDaily   成功进入游戏   获得成就【开始杀戮之旅】󰀭
+[01:08:33]: [Join Announcement] DDaily
+[01:37:07]: [Death Announcement] 黑学 死亡，死因： 饿死。她变成了一个令人毛骨悚然的鬼！
+[01:43:34]: [Resurrect Announcement] 黑学 复活自 试金石.
+[01:51:51]: [Death Announcement] 黑学 死亡，死因： 皮弗娄牛。她变成了一个令人毛骨悚然的鬼！
+[01:52:12]: [Leave Announcement] 黑学
+[01:59:23]: [Death Announcement] 黑学 死亡，死因： 蜘蛛。他变成了一个令人毛骨悚然的鬼！
+[02:05:52]: [Death Announcement] DDaily 死亡，死因： 浣猫。他变成了一个令人毛骨悚然的鬼！
+[02:07:43]: [Resurrect Announcement] DDaily 复活自 恐怖骑兵团.
+[02:10:49]: [Resurrect Announcement] 黑学 复活自 恐怖骑兵团.
+[02:15:41]: [Death Announcement] 黑学 死亡，死因： 浣猫。他变成了一个令人毛骨悚然的鬼！
+[02:19:41]: [Death Announcement] DDaily 死亡，死因： 黑暗。他变成了一个令人毛骨悚然的鬼！
+[02:21:29]: [Resurrect Announcement] DDaily 复活自 恐怖骑兵团.
+[02:38:49]: [Leave Announcement] 黑学
