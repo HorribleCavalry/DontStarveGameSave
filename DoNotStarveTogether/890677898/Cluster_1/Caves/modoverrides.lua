@@ -44,6 +44,7 @@ return {
       ghost_delay=60,
       hunger_kills=true,
       language="auto",
+      no_death_announcement=false,
       rip_cmd=true,
       wes_mult=0.5,
       wilson_extra_hp=0.3,
