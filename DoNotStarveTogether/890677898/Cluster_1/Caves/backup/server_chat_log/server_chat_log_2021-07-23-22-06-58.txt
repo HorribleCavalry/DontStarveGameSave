@@ -1,0 +1,7 @@
+[00:00:34]: [Join Announcement] 恐怖骑兵团
+[00:01:30]: [Join Announcement] DDaily
+[00:02:00]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[00:43:47]: [Death Announcement] 恐怖骑兵团 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[00:44:38]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[00:45:55]: [Death Announcement] 恐怖骑兵团 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[00:46:11]: [Leave Announcement] 恐怖骑兵团

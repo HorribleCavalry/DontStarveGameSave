@@ -1,0 +1,9 @@
+[00:03:09]: [Join Announcement] DDaily
+[00:48:53]: [Death Announcement] DDaily 死于： 猎犬. 若无人救援，60秒后变成幽灵！
+[00:54:41]: [Join Announcement] DDaily
+[00:55:11]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[01:36:58]: [Death Announcement] 恐怖骑兵团 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[01:37:49]: [Resurrect Announcement] 恐怖骑兵团 复活自： DDaily.
+[01:39:06]: [Death Announcement] 恐怖骑兵团 死于： 麋鹿鹅幼崽. 若无人救援，60秒后变成幽灵！
+[01:41:03]: [Join Announcement] DDaily
+[02:51:13]: [Skin Announcement] DDaily body_tshirt_white_smoke

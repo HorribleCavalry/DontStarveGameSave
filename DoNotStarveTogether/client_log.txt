@@ -1,24 +1,24 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 20%
-	Available Physical Memory: 13012m/16300m
-	Available Page File: 11848m/17324m
-	Available Virtual Memory: 3962m/4095m
+	Memory Load: 46%
+	Available Physical Memory: 35127m/65449m
+	Available Page File: 45869m/75177m
+	Available Virtual Memory: 3959m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
 Process Memory:
-	Peak Working Set Size: 32m
-	Working Set Size: 32m
+	Peak Working Set Size: 33m
+	Working Set Size: 33m
 	Quota Peak Page Pool Usage: 242k
 	Quota Page Pool Usage: 237k
-	Quota Peak Non Paged Pool Usage:20k
+	Quota Peak Non Paged Pool Usage:22k
 	Quota Non Paged Pool Usage: 20k
 	Page File Usage: 6m
 	Peak Page File Usage: 6m
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 470691
-[00:00:00]: Current time: Sat Jul 17 15:16:34 2021
+[00:00:00]: Current time: Fri Jul 23 23:21:12 2021
 
 [00:00:00]: Don't Starve Together: 470691 WIN32_STEAM
 [00:00:00]: Build Date: 6396
@@ -33,7 +33,7 @@ Process Memory:
 [00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/890677898/ 
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (4520)
+[00:00:00]: THREAD - started 'GAClient' (29276)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
@@ -44,19 +44,20 @@ Process Memory:
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
 [00:00:00]: Texture Streaming: ENABLED
 [00:00:00]: Threaded Renderer: ENABLED
-[00:00:00]: ProfileIndex:2.88
-[00:00:00]: THREAD - started 'SimUpdateThread' (5608)
-[00:00:00]: THREAD - started 'RenderThread' (4508)
+[00:00:00]: ProfileIndex:0.56
+[00:00:00]: THREAD - started 'SimUpdateThread' (13148)
+[00:00:00]: THREAD - started 'RenderThread' (30200)
 [00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: THREAD - started 'Ping Job Thread' (6272)
+[00:00:00]: THREAD - started 'Ping Job Thread' (27504)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: Authorized application D:\Softwares\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
 [00:00:00]: WindowsFirewall - Application already authorized
-[00:00:00]: THREAD - started 'StreamInput' (5728)
+[00:00:00]: THREAD - started 'StreamInput' (28448)
 [00:00:00]: loaded ping_cache
 [00:00:00]: Offline user ID: OU_76561198850943626
 [00:00:00]: SteamID: 76561198850943626
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (11144)
 [00:00:00]: HardwareStats:
   OS                        
     name                      Microsoft Windows 10 专业版
@@ -64,15 +65,15 @@ Process Memory:
     architecture              64 位
     platformSpecific          SP 0.0
   CPU                       
-    numCores                  6
+    numCores                  16
     features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
-    name                      Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz
-    manufacturer              GenuineIntel
-    clockSpeed                2904
+    name                      AMD Ryzen 9 3950X 16-Core Processor            
+    manufacturer              AuthenticAMD
+    clockSpeed                3493
   RAM                       
-    megsOfRam                 16384
+    megsOfRam                 65536
   GPU                       
-    name                      NVIDIA GeForce GTX 1060 6GB
+    name                      NVIDIA GeForce RTX 2080 Ti
     driverDate                20200930000000.000000-000
     megsOfRam                 4095
     refreshRate               59
@@ -80,10 +81,9 @@ Process Memory:
     driverVersion             27.21.14.5671
 
 [00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: THREAD - started 'AsynTextureLoadthread' (6160)
-[00:00:00]: THREAD - started 'AsynTextureLoadthread' (6580)
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (19124)
 [00:00:00]: WindowManager::Initialize
-[00:00:00]: CreateWindow: Requesting 2560,1361 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateWindow: Requesting 2560,1377 - 5/6/5 - -1/-1/-1 - 0
 [00:00:00]: CreateEGLContext: 12 configs found
 [00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
 [00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
@@ -98,17 +98,17 @@ Process Memory:
 [00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
 [00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
 [00:00:00]: RestoreWindowPosition
-[00:00:00]:    Saved Client Pos (0 x 29)
-[00:00:00]:    Adjusted Window Pos (-9 x -9)
+[00:00:00]:    Saved Client Pos (0 x 23)
+[00:00:00]:    Adjusted Window Pos (-8 x -8)
 [00:00:00]: EnsureWindowOnScreen
 [00:00:00]:    All good.
 [00:00:00]: GLInfo
 [00:00:00]: ~~~~~~
 [00:00:00]: GL_VENDOR: Google Inc.
-[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1060 6GB)
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce RTX 2080 Ti)
 [00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
 [00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
-[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: OpenGL extensions (20, 20):
 [00:00:00]: GL_ANGLE_depth_texture
 [00:00:00]: GL_ANGLE_framebuffer_blit
 [00:00:00]: GL_ANGLE_framebuffer_multisample
@@ -127,12 +127,13 @@ Process Memory:
 [00:00:00]: GL_OES_packed_depth_stencil
 [00:00:00]: GL_OES_rgb8_rgba8
 [00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_float_linear
 [00:00:00]: GL_OES_texture_npot
+[00:00:00]: THREAD - started 'WindowsInputManager' (2852)
 [00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
 [00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
 [00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
 [00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
-[00:00:00]: THREAD - started 'WindowsInputManager' (9096)
 [00:00:00]: GL_MAX_VARYING_VECTORS = 10
 [00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
 [00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
@@ -174,22 +175,22 @@ Process Memory:
 [00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
 [00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
 [00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
-[00:00:03]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
-[00:00:03]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:03]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
-[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
-[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:05]: LOADING LUA SUCCESS
-[00:00:05]: PlayerDeaths loaded morgue	2346	
-[00:00:05]: PlayerHistory loaded player_history (v2) len:606	
-[00:00:05]: ServerPreferences loaded server_preferences	2	
-[00:00:05]: bloom_enabled	true	
-[00:00:05]: loaded shardsaveindex	
-[00:00:05]: OnFilesLoaded()	
-[00:00:05]: OnUpdatePurchaseStateComplete	
-[00:00:05]: Klump load on boot started.	
-[00:00:05]: Klump files loaded: 	0	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	2684	
+[00:00:04]: PlayerHistory loaded player_history (v2) len:606	
+[00:00:04]: ServerPreferences loaded server_preferences	2	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: loaded shardsaveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
 [00:00:06]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
 [00:00:06]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
 [00:00:06]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
@@ -199,91 +200,144 @@ Process Memory:
 [00:00:06]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
 [00:00:06]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
 [00:00:06]: 	Load FE	
-[00:00:07]: 	Load FE: done	
-[00:00:07]: THREAD - started 'FilesExistAsyncThread' (5840)
-[00:00:07]: FilesExistAsyncThread started (18175 files)...
-[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
-[00:00:07]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
-[00:00:07]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
-[00:00:07]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=CN&lang=schinese&version=470691	
-[00:00:07]: SimLuaProxy::QueryServer()
-[00:00:07]: Check for write access: TRUE
-[00:00:07]: Check for read access: TRUE
-[00:00:07]: Available disk space for save files: 146545 MB
-[00:00:07]: ModIndex: Load sequence finished successfully.	
-[00:00:07]: Reset() returning
-[00:00:08]: [MOTD] Done Loading.	
-[00:00:08]: ... FilesExistAsyncThread complete
-[00:00:10]: Do AutoLogin	
-[00:00:10]: [Steam] Auth Session Ticket requested...
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (27384)
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/blocklist.txt (Failure)
+[00:00:06]: FilesExistAsyncThread started (18175 files)...
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/890677898/client_save/adminlist.txt (Failure)
+[00:00:06]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/890677898/client_save/whitelist.txt (Failure)
+[00:00:06]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=HK&lang=schinese&version=470691	
+[00:00:06]: SimLuaProxy::QueryServer()
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 640046 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:07]: [MOTD] Done Loading.	
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:11]: Do AutoLogin	
+[00:00:11]: [Steam] Auth Session Ticket requested...
 [00:00:11]: [Steam] Got Auth Session Ticket
 [00:00:14]: [200] Account Communication Success (3)
 [00:00:14]: Logging in as KU_2duLJbNC
 [00:00:14]: There is no active event to get the status of.
-[00:00:17]: loaded inventory_cache_prod
-[00:00:17]: using inventory state token from cached file
-[00:00:18]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
-[00:00:18]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
-[00:00:37]: ModWorkshop::CancelDownloads clearing all unfinished downloads
-[00:00:37]: Collecting garbage...
-[00:00:37]: lua_gc took 0.04 seconds
-[00:00:37]: ~ShardLuaProxy()
-[00:00:37]: ~cEventLeaderboardProxy()
-[00:00:37]: ~ItemServerLuaProxy()
-[00:00:37]: ~InventoryLuaProxy()
-[00:00:37]: ~NetworkLuaProxy()
-[00:00:37]: ~SimLuaProxy()
-[00:00:37]: ModWorkshop::CancelDownloads clearing all unfinished downloads
-[00:00:37]: lua_close took 0.05 seconds
-[00:00:37]: ModWorkshop::CancelDownloads clearing all unfinished downloads
-[00:00:37]: [Steam] Auth ticket cancelled
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:00:37]: CurlRequestManager::ClientThread::Main() complete
-[00:00:37]: HttpClient2 discarded 0 callbacks.
-[00:00:37]: Shutting down
+[00:00:18]: loaded inventory_cache_prod
+[00:00:18]: using inventory state token from cached file
+[00:00:19]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod
+[00:00:19]: saved APP:Klei//DoNotStarveTogether/890677898/client_save/inventory_cache_prod_sig
+[00:00:30]: Getting top mod details...
+[00:00:30]: Frontend-Unloading mod 'all'.	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:30]: FrontendLoadMod	workshop-1207269058	
+[00:00:30]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:30]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[00:00:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: FrontendLoadMod	workshop-1595934840	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-1595934840	
+[00:00:30]: Fontend-Loading mod: workshop-1595934840 (Help Me Up!) Version:0.1.8	
+[00:00:30]: Mod: workshop-1595934840 (Help Me Up!)	Loading modservercreationmain.lua	
+[00:00:30]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:30]: Mod: workshop-1595934840 (Help Me Up!)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-1595934840 (Help Me Up!)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: FrontendLoadMod	workshop-1079538195	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:30]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:30]: Mod: workshop-1079538195 (Moving Box)	Loading modservercreationmain.lua	
+[00:00:30]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:30]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: FrontendLoadMod	workshop-378160973	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:30]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:30]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[00:00:30]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:30]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: FrontendLoadMod	workshop-347079953	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:30]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:30]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[00:00:30]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:30]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: FrontendLoadMod	workshop-375859599	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:30]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:00:30]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[00:00:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:30]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: GOT top mod details...50
+[00:00:33]: Frontend-Unloading mod 'all'.	
+[00:00:36]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:36]: Collecting garbage...
+[00:00:36]: lua_gc took 0.04 seconds
+[00:00:36]: ~ShardLuaProxy()
+[00:00:36]: ~cEventLeaderboardProxy()
+[00:00:36]: ~ItemServerLuaProxy()
+[00:00:36]: ~InventoryLuaProxy()
+[00:00:36]: ~NetworkLuaProxy()
+[00:00:36]: ~SimLuaProxy()
+[00:00:36]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:36]: lua_close took 0.05 seconds
+[00:00:36]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:36]: [Steam] Auth ticket cancelled
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:36]: CurlRequestManager::ClientThread::Main() complete
+[00:00:36]: HttpClient2 discarded 0 callbacks.
+[00:00:36]: Shutting down

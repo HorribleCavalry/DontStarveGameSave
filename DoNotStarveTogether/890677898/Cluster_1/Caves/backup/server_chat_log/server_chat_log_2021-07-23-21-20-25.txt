@@ -1,0 +1,4 @@
+[00:01:06]: [Join Announcement] 恐怖骑兵团
+[00:02:23]: [Join Announcement] DDaily
+[00:48:07]: [Death Announcement] DDaily 死于： 猎犬. 若无人救援，60秒后变成幽灵！
+[00:49:16]: [Leave Announcement] 恐怖骑兵团

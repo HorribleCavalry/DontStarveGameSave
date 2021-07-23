@@ -1,7 +1,0 @@
-[00:05:02]: [Join Announcement] 黑学
-[00:05:06]: [Join Announcement] DDaily
-[01:16:28]: [Leave Announcement] 黑学
-[01:17:52]: [Join Announcement] 黑学
-[01:44:39]: [Death Announcement] 黑学 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
-[01:45:16]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
-[02:20:24]: [Death Announcement] DDaily 死于： 猪人. 若无人救援，60秒后变成幽灵！
