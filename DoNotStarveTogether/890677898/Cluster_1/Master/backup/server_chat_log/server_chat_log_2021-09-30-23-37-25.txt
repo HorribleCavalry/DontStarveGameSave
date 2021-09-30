@@ -1,0 +1,5 @@
+[00:00:41]: [Join Announcement] 恐怖骑兵团
+[00:01:19]: [Join Announcement] DDaily
+[01:11:29]: [Skin Announcement] DDaily body_tshirt_white_smoke
+[01:12:59]: [Leave Announcement] 恐怖骑兵团
+[01:12:59]: [Leave Announcement] DDaily

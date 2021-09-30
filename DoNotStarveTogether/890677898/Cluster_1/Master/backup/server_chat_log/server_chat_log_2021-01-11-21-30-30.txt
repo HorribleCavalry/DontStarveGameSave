@@ -1,8 +1,0 @@
-[00:00:40]: [Join Announcement] 恐怖骑兵团
-[00:01:18]: [Join Announcement] 黑学
-[00:01:21]: [Join Announcement] DDaily
-[00:10:28]: [Death Announcement] 黑学 死于： 恐怖尖喙. 若无人救援，60秒后变成幽灵！
-[00:10:45]: [Resurrect Announcement] 黑学 复活自： 恐怖骑兵团.
-[00:16:56]: [Leave Announcement] 恐怖骑兵团
-[00:16:56]: [Leave Announcement] DDaily
-[00:16:56]: [Leave Announcement] 黑学

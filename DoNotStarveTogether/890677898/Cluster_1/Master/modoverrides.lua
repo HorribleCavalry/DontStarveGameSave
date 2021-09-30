@@ -56,6 +56,7 @@ return {
     configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
     enabled=true 
   },
+  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-375859599"]={
     configuration_options={
       divider=5,

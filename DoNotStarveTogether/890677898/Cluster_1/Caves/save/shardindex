@@ -57,6 +57,7 @@ KLEI     1 return {
       configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
       enabled=true 
     },
+    ["workshop-375850593"]={ configuration_options={  }, enabled=true },
     ["workshop-375859599"]={
       configuration_options={
         divider=5,
@@ -88,7 +89,7 @@ KLEI     1 return {
     encode_user_path=true,
     game_mode="endless",
     intention="social",
-    max_players=6,
+    max_players=4,
     name="激爽的世界♂",
     online_mode=true,
     password="",

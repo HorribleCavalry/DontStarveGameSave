@@ -1,0 +1,6 @@
+[00:02:06]: [Join Announcement] DDaily
+[00:17:34]: [Join Announcement] DDaily
+[00:26:35]: [Death Announcement] DDaily 死于： 中暑. 若无人救援，60秒后变成幽灵！
+[00:27:01]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[01:09:23]: [Skin Announcement] DDaily feet_sneakers_orange_carrot
+[01:15:05]: [Leave Announcement] DDaily

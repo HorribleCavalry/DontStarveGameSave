@@ -1,5 +1,7 @@
-[00:00:41]: [Join Announcement] 恐怖骑兵团
-[00:01:19]: [Join Announcement] DDaily
-[01:11:29]: [Skin Announcement] DDaily body_tshirt_white_smoke
-[01:12:59]: [Leave Announcement] 恐怖骑兵团
-[01:12:59]: [Leave Announcement] DDaily
+[00:00:50]: [Join Announcement] 恐怖骑兵团
+[00:02:35]: [Join Announcement] DDaily
+[00:11:36]: [Death Announcement] DDaily 死于： 中暑. 若无人救援，60秒后变成幽灵！
+[00:12:02]: [Resurrect Announcement] DDaily 复活自： 恐怖骑兵团.
+[00:54:24]: [Skin Announcement] DDaily feet_sneakers_orange_carrot
+[01:00:06]: [Leave Announcement] DDaily
+[01:02:57]: [Leave Announcement] 恐怖骑兵团
